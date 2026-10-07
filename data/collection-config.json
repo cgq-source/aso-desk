@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "id": "6813927466",
+    "countries": ["us"],
+    "keywords": ["akari", "akari light", "akari puzzle", "light up puzzle", "logic puzzle", "logic grid"]
+  }],
+  "charts": [{"country":"us","type":"apps-free"},{"country":"us","type":"games-free"}],
+  "note": "This file configures public-data collection only. Browser-local drafts, custom watchlists and analytics are never uploaded."
+}

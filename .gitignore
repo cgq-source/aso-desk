@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.env*
+*.p8
+*.pem
+*.key
+__pycache__/
+.cache/
+artifacts/
+*.log
