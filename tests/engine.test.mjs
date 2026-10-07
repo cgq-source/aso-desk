@@ -22,3 +22,13 @@ test('history uses UTC days and an older remote point cannot replace a newer loc
 test('country workspaces and drafts remain separate; invalid restore is atomic',()=>{
  const memory=new Map();globalThis.localStorage={getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)};
  const seed={apps:[app],searches:[]};const w=new Workspace(seed);w.addWord('akari');w.current.words.akari.tracked=true;w.current.drafts['en-US']={title:'Test',subtitle:'S',keywords:'brain'};w.save();w.select(app.id,'jp');assert.equal(Object.keys(w.current.words).length,0);assert.equal(w.current.metadata.subtitle,'');assert(w.current.metadata.countryUnverified);w.select(app.id,'us');assert(w.current.words.akari.tracked);assert.equal(w.current.drafts['en-US'].title,'Test');const old=w.export();const bad=JSON.parse(old);delete bad.scopes[app.id+':us'].profile;assert.throws(()=>w.restore(JSON.stringify(bad)));assert.equal(w.current.drafts['en-US'].title,'Test');w.restore(old);assert(w.current.words.akari.tracked);assert.throws(()=>w.addWord('__proto__'));});
+test('backup restore rejects invalid nested metrics before replacing current work',()=>{
+ const memory=new Map();globalThis.localStorage={getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)};
+ const w=new Workspace({apps:[app],searches:[]});w.current.drafts['en-US']={title:'Keep me',subtitle:'S',keywords:'brain'};
+ const original=w.export(),bad=JSON.parse(original),scope=bad.scopes[app.id+':us'];
+ scope.analytics=[{date:'2026-10-07',impressions:'<img src=x>',pageViews:1,downloads:1}];assert.throws(()=>w.restore(JSON.stringify(bad)));assert.equal(w.current.drafts['en-US'].title,'Keep me');
+ scope.analytics=[];scope.competitors=[{id:'42',name:'Other',ratingCount:'<b>fake</b>'}];assert.throws(()=>w.restore(JSON.stringify(bad)));
+ scope.competitors=[];scope.words.akari={term:'akari',record:{status:'ok',returned:100,position:'<b>1</b>',topResults:[]}};assert.throws(()=>w.restore(JSON.stringify(bad)));
+ scope.words={};bad.popularity={'us|akari':{term:'akari',country:'us',score:Infinity}};assert.throws(()=>w.restore(JSON.stringify(bad)));
+ w.restore(original);assert.equal(w.current.drafts['en-US'].title,'Keep me');
+});

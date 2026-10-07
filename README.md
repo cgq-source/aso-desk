@@ -2,6 +2,8 @@
 
 个人多 App ASO 工作台。静态网站部署在 GitHub Pages，公开 Apple 数据由浏览器实时查询及 GitHub Actions 采集。选词、隐藏关键词字段、商店草稿、报表与实验日志保存在当前浏览器。
 
+[打开工作台](https://cgq-source.github.io/aso-desk/) · [GitHub 仓库](https://github.com/cgq-source/aso-desk) · [首版验收记录](docs/verification-20261007.md)
+
 ## 使用
 
 1. 添加 App ID、App Store 链接或应用名称，选择国家 / 地区。
