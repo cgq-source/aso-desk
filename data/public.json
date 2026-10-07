@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-07T04:39:09.629927Z",
+  "checkedAt": "2026-10-07T05:01:49.692269Z",
   "apps": [
     {
       "id": "6813927466",
@@ -30,7 +30,7 @@
         "ZH"
       ],
       "subtitleSource": "公开商店页面手动导入 · 2026-10-07",
-      "checkedAt": "2026-10-07T04:38:34.520577Z",
+      "checkedAt": "2026-10-07T05:00:56.962725Z",
       "sourceURL": "https://itunes.apple.com/lookup?id=6813927466&country=us",
       "storefronts": {
         "us": {
@@ -61,7 +61,7 @@
             "ZH"
           ],
           "subtitleSource": "公开商店页面手动导入 · 2026-10-07",
-          "checkedAt": "2026-10-07T04:38:34.520577Z",
+          "checkedAt": "2026-10-07T05:00:56.962725Z",
           "sourceURL": "https://itunes.apple.com/lookup?id=6813927466&country=us"
         }
       }
@@ -75,9 +75,9 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:38.466052Z",
-      "position": 61,
-      "returned": 106,
+      "checkedAt": "2026-10-07T05:01:02.582595Z",
+      "position": 62,
+      "returned": 108,
       "limit": 200,
       "topResults": [
         {
@@ -300,22 +300,21 @@
           ]
         },
         {
-          "id": "6503137132",
-          "name": "INSAkari",
+          "id": "896130944",
+          "name": "Mercari: Buying & Selling App",
           "subtitle": "",
-          "description": "Jouez au jeu Akari en solo ou en duel en ligne",
-          "category": "Games",
+          "description": "MEET MERCARI: a marketplace built for you. Sell quick and save big all in one, top-rated marketplace. With 1000s of new and used items dropping daily, millions are shopping and selling on the Mercari marketplace. From clothing to collectibles, vintage Valentino to new Nintendo, find deals at up to 70% off retail.\n\nDESIGNED TO HELP SELLERS SUCCEED\n- Earn money decluttering unused items or start a side hustle\n- List in seconds – sell collectibles, once-loved clothing, toys, vintage, electronics, trading cards, makeup and antiques\n- Get your stuff seen and sold fast with millions of shoppers and tools like Promote and Offer to Likers\n- Get paid quickly with Instant Pay or direct deposit. You can also use your Mercari balance to fund your next find\n- Sell securely with ratings, reviews and Seller Protection\n\nDISCOVER DEALS FROM TRUSTED SELLERS\n- Thrift clothes, collectibles, antiques, unique handmade items, one-of-a-kind treasures, pre-loved pieces and more\n- Find what you’re looking for at a great price\n- Shop new, like-new, used and sale items\n- Discover hidden finds you can’t shop at retail – from limited edition to one-of-a-kind treasures\n- Get notified of price drops and exclusive offers from sellers\n- Pricing is flexible so you can shop within budget. Make offers to negotiate prices on your favorite finds\n- Bundle items to ship in one package and save on shipping\n\n\nMERCARI IS THE COMMUNITY MARKETPLACE THAT WORKS FOR YOU. SHOP MERCARI TO SAVE MONEY, GET AMAZING DEALS AND DISCOVER UNIQUE & VINTAGE ITEMS!\n\nMERCARI FEATURES:\n\nA HAUL OF GREAT BRANDS\nShop clothing, shoes, and more from top brands including:\n- Lululemon, Athleta and Vuori athletic apparel\n- Nike, Adidas and Jordan sneakers\n- Apple, Sony and Microsoft devices\n\nFAVORITES FROM NICHE BRANDS\n- Tamashii Nations, Funko and Sonny Angel figurines\n- Loungefly backpacks and Hello Kitty toys\n- Calico critters and Sylvanian family\n\nCOLLECTIBLES FOR EVERY FAN\n- Pokémon and Magic the Gathering trading card games\n- Topps and Upper Deck sports cards\n- BTS and ATEEZ photo cards\n- DC, Marvel, Dragon Ball Z and Star Wars action figures\n- Collectible pins and coins\n\nUSED ELECTRONICS FOR LOW PRICES\n- Find vintage gaming consoles and used games\n- Shop computers, laptops, tablets and accessories\n- Buy used and vintage cameras, camera lenses, and camera bags\n- Browse guitars, keyboards, electric drums, amps, and other instruments\n\nKIDS TOYS & CLOTHES\n- Little Sleepies, Posh Peanut and Kate Quinn\n- Lovevery, Melissa & Doug and  KiwiCo\n- Monster High, American Girl, JellyCat\n\nAUTHENTICATED LUXURY SHOPPING\n- Shopping for authenticated luxury goods? Buy designer handbags, shoes and jewelry from brands like Coach, Marc Jacobs and Dior\n- Shop the real deal. Items with a diamond badge are authenticated by independent experts, and every purchase is protected\n\nONLINE SHOPPING TOOLS THAT WORK FOR YOU\n- Pay your way with Venmo, PayPal, credit card, split your payments or use your Mercari balance\n- Shop confidently  with trusted transactions, seller communication via DM,ratings and reviews, and  Buyer Protection\n- Get your item as described or your money back with free return shipping.\n\nNATIONWIDE SHIPPING & DELIVERY\n- Use Mercari Prepaid Labels to easily price and print either seller or buyer-paid shipping labels, track your shipments and get up to $200 Shipping Protection\n- Get standard and economy prepaid labels with UPS, FedEx and USPS including Media Mail and first class envelopes, or ship on your own\n- Sellers are asked to ship sold items within 3 business days\n\nDIRECT SHOPPING FROM JAPAN’S #1 MARKETPLACE\n- Easily shop millions of items direct from Mercari Japan\n- Find top Japanese brands including Evisu, Vizvim, Comme des Garçons, BAPE, and Beams and more\n- Save big on brands you know and love like Stüssy, Nintendo, Coach, Ascis,\n\nDOWNLOAD TODAY AND FIND OUT WHAT MAKES MERCARI THE EASY WAY TO THRIFT!\n\nAvailable in the US for anyone 18+",
+          "category": "Shopping",
           "genres": [
-            "Games",
-            "Puzzle",
-            "Casual"
+            "Shopping",
+            "Lifestyle"
           ],
-          "developer": "Axel Lenroue",
-          "rating": 0,
-          "ratingCount": 0,
-          "version": "1.0",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/96/01/86960134-b95e-6bb4-8b27-b8da53c50969/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
-          "url": "https://apps.apple.com/us/app/insakari/id6503137132?uo=4",
+          "developer": "Mercari, Inc.",
+          "rating": 4.84798,
+          "ratingCount": 1954267,
+          "version": "9.45.0",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c6/3a/17c63aec-54d2-e03f-b2af-ed95189888a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "url": "https://apps.apple.com/us/app/mercari-buying-selling-app/id896130944?uo=4",
           "languages": [
             "EN"
           ]
@@ -340,21 +339,22 @@
           ]
         },
         {
-          "id": "896130944",
-          "name": "Mercari: Buying & Selling App",
+          "id": "6503137132",
+          "name": "INSAkari",
           "subtitle": "",
-          "description": "MEET MERCARI: a marketplace built for you. Sell quick and save big all in one, top-rated marketplace. With 1000s of new and used items dropping daily, millions are shopping and selling on the Mercari marketplace. From clothing to collectibles, vintage Valentino to new Nintendo, find deals at up to 70% off retail.\n\nDESIGNED TO HELP SELLERS SUCCEED\n- Earn money decluttering unused items or start a side hustle\n- List in seconds – sell collectibles, once-loved clothing, toys, vintage, electronics, trading cards, makeup and antiques\n- Get your stuff seen and sold fast with millions of shoppers and tools like Promote and Offer to Likers\n- Get paid quickly with Instant Pay or direct deposit. You can also use your Mercari balance to fund your next find\n- Sell securely with ratings, reviews and Seller Protection\n\nDISCOVER DEALS FROM TRUSTED SELLERS\n- Thrift clothes, collectibles, antiques, unique handmade items, one-of-a-kind treasures, pre-loved pieces and more\n- Find what you’re looking for at a great price\n- Shop new, like-new, used and sale items\n- Discover hidden finds you can’t shop at retail – from limited edition to one-of-a-kind treasures\n- Get notified of price drops and exclusive offers from sellers\n- Pricing is flexible so you can shop within budget. Make offers to negotiate prices on your favorite finds\n- Bundle items to ship in one package and save on shipping\n\n\nMERCARI IS THE COMMUNITY MARKETPLACE THAT WORKS FOR YOU. SHOP MERCARI TO SAVE MONEY, GET AMAZING DEALS AND DISCOVER UNIQUE & VINTAGE ITEMS!\n\nMERCARI FEATURES:\n\nA HAUL OF GREAT BRANDS\nShop clothing, shoes, and more from top brands including:\n- Lululemon, Athleta and Vuori athletic apparel\n- Nike, Adidas and Jordan sneakers\n- Apple, Sony and Microsoft devices\n\nFAVORITES FROM NICHE BRANDS\n- Tamashii Nations, Funko and Sonny Angel figurines\n- Loungefly backpacks and Hello Kitty toys\n- Calico critters and Sylvanian family\n\nCOLLECTIBLES FOR EVERY FAN\n- Pokémon and Magic the Gathering trading card games\n- Topps and Upper Deck sports cards\n- BTS and ATEEZ photo cards\n- DC, Marvel, Dragon Ball Z and Star Wars action figures\n- Collectible pins and coins\n\nUSED ELECTRONICS FOR LOW PRICES\n- Find vintage gaming consoles and used games\n- Shop computers, laptops, tablets and accessories\n- Buy used and vintage cameras, camera lenses, and camera bags\n- Browse guitars, keyboards, electric drums, amps, and other instruments\n\nKIDS TOYS & CLOTHES\n- Little Sleepies, Posh Peanut and Kate Quinn\n- Lovevery, Melissa & Doug and  KiwiCo\n- Monster High, American Girl, JellyCat\n\nAUTHENTICATED LUXURY SHOPPING\n- Shopping for authenticated luxury goods? Buy designer handbags, shoes and jewelry from brands like Coach, Marc Jacobs and Dior\n- Shop the real deal. Items with a diamond badge are authenticated by independent experts, and every purchase is protected\n\nONLINE SHOPPING TOOLS THAT WORK FOR YOU\n- Pay your way with Venmo, PayPal, credit card, split your payments or use your Mercari balance\n- Shop confidently  with trusted transactions, seller communication via DM,ratings and reviews, and  Buyer Protection\n- Get your item as described or your money back with free return shipping.\n\nNATIONWIDE SHIPPING & DELIVERY\n- Use Mercari Prepaid Labels to easily price and print either seller or buyer-paid shipping labels, track your shipments and get up to $200 Shipping Protection\n- Get standard and economy prepaid labels with UPS, FedEx and USPS including Media Mail and first class envelopes, or ship on your own\n- Sellers are asked to ship sold items within 3 business days\n\nDIRECT SHOPPING FROM JAPAN’S #1 MARKETPLACE\n- Easily shop millions of items direct from Mercari Japan\n- Find top Japanese brands including Evisu, Vizvim, Comme des Garçons, BAPE, and Beams and more\n- Save big on brands you know and love like Stüssy, Nintendo, Coach, Ascis,\n\nDOWNLOAD TODAY AND FIND OUT WHAT MAKES MERCARI THE EASY WAY TO THRIFT!\n\nAvailable in the US for anyone 18+",
-          "category": "Shopping",
+          "description": "Jouez au jeu Akari en solo ou en duel en ligne",
+          "category": "Games",
           "genres": [
-            "Shopping",
-            "Lifestyle"
+            "Games",
+            "Puzzle",
+            "Casual"
           ],
-          "developer": "Mercari, Inc.",
-          "rating": 4.84798,
-          "ratingCount": 1954267,
-          "version": "9.45.0",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c6/3a/17c63aec-54d2-e03f-b2af-ed95189888a5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-          "url": "https://apps.apple.com/us/app/mercari-buying-selling-app/id896130944?uo=4",
+          "developer": "Axel Lenroue",
+          "rating": 0,
+          "ratingCount": 0,
+          "version": "1.0",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/96/01/86960134-b95e-6bb4-8b27-b8da53c50969/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+          "url": "https://apps.apple.com/us/app/insakari/id6503137132?uo=4",
           "languages": [
             "EN"
           ]
@@ -555,9 +555,9 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari+light&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:42.291649Z",
+      "checkedAt": "2026-10-07T05:01:08.463251Z",
       "position": 46,
-      "returned": 163,
+      "returned": 165,
       "limit": 200,
       "topResults": [
         {
@@ -1094,7 +1094,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=light+up+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:49.896044Z",
+      "checkedAt": "2026-10-07T05:01:15.468560Z",
       "position": null,
       "returned": 157,
       "limit": 200,
@@ -1618,7 +1618,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=logic+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:53.751875Z",
+      "checkedAt": "2026-10-07T05:01:19.941683Z",
       "position": null,
       "returned": 196,
       "limit": 200,
@@ -2004,6 +2004,35 @@
           ]
         },
         {
+          "id": "950326185",
+          "name": "Real Logic Riddle Puzzle",
+          "subtitle": "",
+          "description": "Real Logic Challenge is a logic puzzle to challenge your brain. It is known as different names, such as Scientist's Riddle, Zebra Puzzle or Sherlock Holmes Puzzle.\n\n\nThe game presents a logic problem that gives you several clues describing a scenario involving a number of people. Each person has a certain job, owns a certain pet, likes some kind of sport, among other attributes. Your role in this brain teaser is a mix of detective with intelligence work: by using pure logic thinking and elimination, to uniquely deduce the whole scenario based on only a few initial clues.\n\n\nFeatures:\n• Thousands of Riddles: over 7000 logic riddles, all free! No packs to buy or anything.\n• Daily challenges: 15 free challenges every day.\n• Increasing Difficulty: Several grid sizes, from 4x4 to 16x9 - the bigger the harder.\n• Filters for Experts: Filters to help you find hints related to the elements and variables you want.\n• Mobile: Fully adapted to mobile interface: no clumsy triangular grid as the paper version.\n• Auto-Save: game is automatically saved so you can continue later.\n\n\nClues follow these lines:\n\"The English wears the Baseball Cap. The American likes Wine. The one that owns a Fox doesn't drink Beer...\"\n\n\nAnd your job in the Logic Riddle is to fully determine the scenario using logical assumptions, such as knowing what drink the English likes, and what kind of hat the guy who owns a Fox wears.\n\n\nIf you like pure logic problems, this game is for you: a true enigma game.\n\n\nIf you have any suggestions or problems let us know through logic.ios@rottzgames.com or the Facebook group: https://www.facebook.com/groups/288035414684910/",
+          "category": "Games",
+          "genres": [
+            "Games",
+            "Puzzle",
+            "Board",
+            "Entertainment"
+          ],
+          "developer": "Rottz Games",
+          "rating": 4.76051,
+          "ratingCount": 5683,
+          "version": "7.5.0",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/36/41/16364178-1f5c-ca9f-2317-aa2b77ba07ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "url": "https://apps.apple.com/us/app/real-logic-riddle-puzzle/id950326185?uo=4",
+          "languages": [
+            "CA",
+            "EN",
+            "FR",
+            "DE",
+            "JA",
+            "KO",
+            "ZH",
+            "ES"
+          ]
+        },
+        {
           "id": "6608973267",
           "name": "Clue Master - Logic Puzzles",
           "subtitle": "",
@@ -2032,35 +2061,6 @@
             "ZH",
             "ES",
             "ZH"
-          ]
-        },
-        {
-          "id": "950326185",
-          "name": "Real Logic Riddle Puzzle",
-          "subtitle": "",
-          "description": "Real Logic Challenge is a logic puzzle to challenge your brain. It is known as different names, such as Scientist's Riddle, Zebra Puzzle or Sherlock Holmes Puzzle.\n\n\nThe game presents a logic problem that gives you several clues describing a scenario involving a number of people. Each person has a certain job, owns a certain pet, likes some kind of sport, among other attributes. Your role in this brain teaser is a mix of detective with intelligence work: by using pure logic thinking and elimination, to uniquely deduce the whole scenario based on only a few initial clues.\n\n\nFeatures:\n• Thousands of Riddles: over 7000 logic riddles, all free! No packs to buy or anything.\n• Daily challenges: 15 free challenges every day.\n• Increasing Difficulty: Several grid sizes, from 4x4 to 16x9 - the bigger the harder.\n• Filters for Experts: Filters to help you find hints related to the elements and variables you want.\n• Mobile: Fully adapted to mobile interface: no clumsy triangular grid as the paper version.\n• Auto-Save: game is automatically saved so you can continue later.\n\n\nClues follow these lines:\n\"The English wears the Baseball Cap. The American likes Wine. The one that owns a Fox doesn't drink Beer...\"\n\n\nAnd your job in the Logic Riddle is to fully determine the scenario using logical assumptions, such as knowing what drink the English likes, and what kind of hat the guy who owns a Fox wears.\n\n\nIf you like pure logic problems, this game is for you: a true enigma game.\n\n\nIf you have any suggestions or problems let us know through logic.ios@rottzgames.com or the Facebook group: https://www.facebook.com/groups/288035414684910/",
-          "category": "Games",
-          "genres": [
-            "Games",
-            "Puzzle",
-            "Board",
-            "Entertainment"
-          ],
-          "developer": "Rottz Games",
-          "rating": 4.76051,
-          "ratingCount": 5683,
-          "version": "7.5.0",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/36/41/16364178-1f5c-ca9f-2317-aa2b77ba07ea/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-          "url": "https://apps.apple.com/us/app/real-logic-riddle-puzzle/id950326185?uo=4",
-          "languages": [
-            "CA",
-            "EN",
-            "FR",
-            "DE",
-            "JA",
-            "KO",
-            "ZH",
-            "ES"
           ]
         },
         {
@@ -2192,26 +2192,47 @@
           ]
         },
         {
-          "id": "1067062478",
-          "name": "Logicals",
+          "id": "1451295827",
+          "name": "Impulse - Brain Training",
           "subtitle": "",
-          "description": "Solve logic grid puzzles similar to Einstein's famous zebra puzzle \"Who has the fish?\" on your iPad, iPhone, Apple TV and Mac!\n\n+++++++++++++++++++++++++++++++++++++\n\nFeatures:\n\n6 riddles (Logicals):\n• 2x easy (4 values per category)\n• 2x medium (5 values per category)\n• 2x hard (5 values per category)\n• additional levelpacks available via in app purchase\n\n36 riddles (Logicals Pro):\n• 15x easy (4 values per category)\n• 6x medium (5 values per category)\n• 15x hard (5 values per category)\n• additional levelpacks available via in app purchase\n\n3x3 Layouts:\n• light\n• coffee\n• dark\neach in the variants\n• full/empty\n• plus/minus\n• check/cross\n\n2 languages:\n• german\n• english\n\neasy solving of riddles by tapping: \n• tap once for \"does not match\"\n• tap twice for \"matches\"\n\nlandscape & portrait mode available!\n\nadditional features:\n• timer and Game Center support\n• current state can be checked at any time\n• solving table as assistance for a better overview (iPad only)\n\n++++++++++++++++++++++++++++++++\ncompletely free of ads!\n++++++++++++++++++++++++++++++++\n\ncompatible devices:\n• iPhone 6s or newer\n• iPad\n• iPad Pro\n• Apple TV 4\n• iMac, MacBook, Mac Mini\n(requires iOS 13.0 / tvOS 13.0 / macOS 14.2 or higher)\n\n+++++++++++++++++++++++++++++++++++++\n\nIf you like the app, please leave me a good review!\n\nIf you have questions, problems or suggestions, please contact me by email to logicals@icloud.com.",
-          "category": "Games",
+          "description": "100+ million downloads \n4.7 worldwide rating \nApp of the Day in 50+ countries\n\nTrain your brain. Discover yourself. Become sharper.\nImpulse is more than a brain training app — it's a complete toolkit for understanding how your mind works and building it into its strongest version.\n\nStruggle to stay focused? Forget things easily? Feel like your brain could do more? That’s where Impulse comes in.\n\nTRAIN WHAT YOUR BRAIN NEEDS MOST\nImpulse builds a personalized daily training plan tailored to the brain areas you need most:\n- Memory & Processing speed\n- Attention & focus\n- Mental math\n- Problem-solving \nOur science-inspired games are challenging enough to keep you progressing and simple enough to enjoy every day — at any age or skill level.\n\nDISCOVER YOUR COGNITIVE PROFILE\nGo deeper with a library of self-discovery tests that reveal how your mind truly works:\n- IQ tests & Cognitive strengths\n- Personality type and archetype insights\n- Emotional intelligence and self-awareness tests\nEach test comes with personalized recommendations so you know exactly which areas to focus on and how to grow.\n\nTRACK YOUR GROWTH\n- See your performance trends over time\n- Get actionable insights — not just scores\n- Stay motivated with streaks and progress reports\n\nWHY IMPULSE\nMost brain apps just give you games. Impulse also gives you deeper understanding of yourself. \nTrain smarter and stay sharp for life.\nJoin 100 million people worldwide who've made Impulse part of their daily routine.\n\nImpulse offers a 3-day free trial with full access to all games - no ads, no interruptions. If you choose to subscribe, the fee will be shown in the app before you complete the payment. Payment will be charged to your iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period. You may manage your subscription and turn off auto-renewal at any time in your iTunes Account Settings.\n\nTerms of Service: https://brainimpulse.me/app/tos.html\nPrivacy Policy: https://brainimpulse.me/app/privacy_policy.html\nContact: support@brainimpulse.me",
+          "category": "Education",
           "genres": [
-            "Games",
-            "Word",
-            "Entertainment",
-            "Trivia"
+            "Education",
+            "Health & Fitness"
           ],
-          "developer": "Christian Lueth",
-          "rating": 4.31376,
-          "ratingCount": 1992,
-          "version": "8.0.6",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/de/6e/1ade6ea5-f2d6-c335-2e66-f12b67ea7af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-          "url": "https://apps.apple.com/us/app/logicals/id1067062478?uo=4",
+          "developer": "GMRD Apps Limited",
+          "rating": 4.74754,
+          "ratingCount": 850216,
+          "version": "1.55.1",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/e6/f3/38e6f3f2-7aa8-16c3-2334-9d9897ed649f/AppIcon_Head-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
+          "url": "https://apps.apple.com/us/app/impulse-brain-training/id1451295827?uo=4",
           "languages": [
+            "AR",
+            "CS",
+            "DA",
+            "NL",
             "EN",
-            "DE"
+            "FI",
+            "FR",
+            "DE",
+            "HI",
+            "ID",
+            "IT",
+            "JA",
+            "KO",
+            "MS",
+            "NB",
+            "PL",
+            "PT",
+            "ZH",
+            "ES",
+            "SV",
+            "TH",
+            "ZH",
+            "TR",
+            "UK",
+            "VI"
           ]
         }
       ]
@@ -2223,7 +2244,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:46.147317Z",
+      "checkedAt": "2026-10-07T05:01:12.254089Z",
       "position": null,
       "returned": 179,
       "limit": 200,
@@ -2782,7 +2803,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=logic+grid&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-07T04:38:57.592722Z",
+      "checkedAt": "2026-10-07T05:01:23.787184Z",
       "position": null,
       "returned": 188,
       "limit": 200,
@@ -3304,7 +3325,7 @@
       "country": "us",
       "type": "apps-free",
       "sourceURL": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/100/apps.json",
-      "checkedAt": "2026-10-07T04:39:07.340338Z",
+      "checkedAt": "2026-10-07T05:01:46.539286Z",
       "results": [
         {
           "id": "6760173601",
@@ -4112,7 +4133,7 @@
       "country": "us",
       "type": "games-free",
       "sourceURL": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6014/json",
-      "checkedAt": "2026-10-07T04:39:09.629902Z",
+      "checkedAt": "2026-10-07T05:01:49.692220Z",
       "results": [
         {
           "id": "6761760135",
@@ -4922,32 +4943,32 @@
       "appId": "6813927466",
       "country": "us",
       "sourceURL": "https://itunes.apple.com/us/rss/customerreviews/id=6813927466/sortby=mostrecent/json",
-      "checkedAt": "2026-10-07T04:39:02.149060Z",
+      "checkedAt": "2026-10-07T05:01:23.912259Z",
       "results": []
     }
   ],
   "histories": {
     "6813927466|us|akari": [
       {
-        "checkedAt": "2026-10-07T04:38:38.466052Z",
-        "position": 61,
-        "returned": 106,
+        "checkedAt": "2026-10-07T05:01:02.582595Z",
+        "position": 62,
+        "returned": 108,
         "source": "apple-search-api-v1",
         "date": "2026-10-07"
       }
     ],
     "6813927466|us|akari light": [
       {
-        "checkedAt": "2026-10-07T04:38:42.291649Z",
+        "checkedAt": "2026-10-07T05:01:08.463251Z",
         "position": 46,
-        "returned": 163,
+        "returned": 165,
         "source": "apple-search-api-v1",
         "date": "2026-10-07"
       }
     ],
     "6813927466|us|akari puzzle": [
       {
-        "checkedAt": "2026-10-07T04:38:46.147317Z",
+        "checkedAt": "2026-10-07T05:01:12.254089Z",
         "position": null,
         "returned": 179,
         "source": "apple-search-api-v1",
@@ -4956,7 +4977,7 @@
     ],
     "6813927466|us|light up puzzle": [
       {
-        "checkedAt": "2026-10-07T04:38:49.896044Z",
+        "checkedAt": "2026-10-07T05:01:15.468560Z",
         "position": null,
         "returned": 157,
         "source": "apple-search-api-v1",
@@ -4965,7 +4986,7 @@
     ],
     "6813927466|us|logic puzzle": [
       {
-        "checkedAt": "2026-10-07T04:38:53.751875Z",
+        "checkedAt": "2026-10-07T05:01:19.941683Z",
         "position": null,
         "returned": 196,
         "source": "apple-search-api-v1",
@@ -4974,7 +4995,7 @@
     ],
     "6813927466|us|logic grid": [
       {
-        "checkedAt": "2026-10-07T04:38:57.592722Z",
+        "checkedAt": "2026-10-07T05:01:23.787184Z",
         "position": null,
         "returned": 188,
         "source": "apple-search-api-v1",
