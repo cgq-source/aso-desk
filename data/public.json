@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-15T04:50:06.944051Z",
+  "checkedAt": "2026-10-16T04:40:36.638300Z",
   "apps": [
     {
       "id": "6813927466",
@@ -30,7 +30,7 @@
         "ZH"
       ],
       "subtitleSource": "公开商店页面手动导入 · 2026-10-07",
-      "checkedAt": "2026-10-15T04:49:32.829720Z",
+      "checkedAt": "2026-10-16T04:39:44.294133Z",
       "sourceURL": "https://itunes.apple.com/lookup?id=6813927466&country=us",
       "storefronts": {
         "us": {
@@ -61,7 +61,7 @@
             "ZH"
           ],
           "subtitleSource": "公开商店页面手动导入 · 2026-10-07",
-          "checkedAt": "2026-10-15T04:49:32.829720Z",
+          "checkedAt": "2026-10-16T04:39:44.294133Z",
           "sourceURL": "https://itunes.apple.com/lookup?id=6813927466&country=us"
         }
       }
@@ -75,7 +75,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:38.590444Z",
+      "checkedAt": "2026-10-16T04:39:48.231394Z",
       "position": 66,
       "returned": 109,
       "limit": 200,
@@ -613,7 +613,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari+light&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:42.966175Z",
+      "checkedAt": "2026-10-16T04:39:52.086324Z",
       "position": 72,
       "returned": 167,
       "limit": 200,
@@ -1174,7 +1174,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=light+up+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:51.297927Z",
+      "checkedAt": "2026-10-16T04:39:59.669506Z",
       "position": null,
       "returned": 178,
       "limit": 200,
@@ -1860,7 +1860,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=logic+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:55.367110Z",
+      "checkedAt": "2026-10-16T04:40:03.488685Z",
       "position": null,
       "returned": 197,
       "limit": 200,
@@ -2495,7 +2495,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=akari+puzzle&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:47.086927Z",
+      "checkedAt": "2026-10-16T04:39:55.870015Z",
       "position": null,
       "returned": 180,
       "limit": 200,
@@ -3040,7 +3040,7 @@
       "source": "apple-search-api-v1",
       "sourceURL": "https://itunes.apple.com/search?term=logic+grid&country=us&media=software&entity=software&limit=200",
       "status": "ok",
-      "checkedAt": "2026-10-15T04:49:58.957300Z",
+      "checkedAt": "2026-10-16T04:40:07.279112Z",
       "position": null,
       "returned": 190,
       "limit": 200,
@@ -3571,7 +3571,7 @@
       "country": "us",
       "type": "apps-free",
       "sourceURL": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/100/apps.json",
-      "checkedAt": "2026-10-15T04:50:04.092396Z",
+      "checkedAt": "2026-10-16T04:40:34.495718Z",
       "results": [
         {
           "id": "6760173601",
@@ -3606,11 +3606,11 @@
           "category": ""
         },
         {
-          "id": "1668228991",
-          "name": "Dave’s Hot Chicken®",
-          "developer": "Dave's Hot Chicken",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/8e/5e/4e8e5ed4-522d-37ea-3846-73af02f99de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/daves-hot-chicken/id1668228991",
+          "id": "545519333",
+          "name": "Amazon Prime Video",
+          "developer": "AMZN Mobile LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1a/ad/021aad30-18ea-3f77-0a0c-eefc68a33a9c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
           "category": ""
         },
         {
@@ -3625,7 +3625,7 @@
           "id": "6473753684",
           "name": "Claude by Anthropic",
           "developer": "Anthropic PBC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/61/43/51614377-8976-4277-5f5e-90c614b04913/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/40/fc/9540fc5b-705f-03bb-fefd-a70c3f840ced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684",
           "category": ""
         },
@@ -3638,14 +3638,6 @@
           "category": ""
         },
         {
-          "id": "6754134922",
-          "name": "PineDrama - Short Dramas",
-          "developer": "TikTok Ltd.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922",
-          "category": ""
-        },
-        {
           "id": "6477489729",
           "name": "Google Gemini",
           "developer": "Google",
@@ -3654,12 +3646,12 @@
           "category": ""
         },
         {
-          "id": "1500855883",
-          "name": "CapCut: Photo & Video Editor",
-          "developer": "Bytedance Pte. Ltd",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/96/5e3f9662-e690-3e55-e0b0-77da51f98fd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883",
-          "category": "Photo & Video"
+          "id": "6754134922",
+          "name": "PineDrama - Short Dramas",
+          "developer": "TikTok Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922",
+          "category": ""
         },
         {
           "id": "1632713844",
@@ -3668,6 +3660,14 @@
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/1f/60/da1f6015-5abe-3b1f-0276-d6adaccf081c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844",
           "category": "Finance"
+        },
+        {
+          "id": "1500855883",
+          "name": "CapCut: Photo & Video Editor",
+          "developer": "Bytedance Pte. Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/96/5e3f9662-e690-3e55-e0b0-77da51f98fd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883",
+          "category": "Photo & Video"
         },
         {
           "id": "284815942",
@@ -3694,14 +3694,6 @@
           "category": "Productivity"
         },
         {
-          "id": "518684914",
-          "name": "Depop - Buy & Sell Clothes",
-          "developer": "Depop Ltd",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/78/e5/d678e565-c338-6ea1-58b8-1ff377b0270d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914",
-          "category": "Shopping"
-        },
-        {
           "id": "835599320",
           "name": "TikTok - Videos, Shop & LIVE",
           "developer": "TikTok Ltd.",
@@ -3710,11 +3702,19 @@
           "category": "Entertainment"
         },
         {
-          "id": "1223471316",
-          "name": "Shop: Track, Pay, Discover",
-          "developer": "Shopify Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/2b/5c/422b5c72-1710-cdfc-5b88-a768222aefe1/AppIconProduction-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316",
+          "id": "585027354",
+          "name": "Google Maps",
+          "developer": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/google-maps/id585027354",
+          "category": "Navigation"
+        },
+        {
+          "id": "518684914",
+          "name": "Depop - Buy & Sell Clothes",
+          "developer": "Depop Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/78/e5/d678e565-c338-6ea1-58b8-1ff377b0270d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914",
           "category": "Shopping"
         },
         {
@@ -3726,28 +3726,12 @@
           "category": "Shopping"
         },
         {
-          "id": "585027354",
-          "name": "Google Maps",
-          "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/google-maps/id585027354",
-          "category": "Navigation"
-        },
-        {
-          "id": "983156458",
-          "name": "Microsoft Authenticator",
-          "developer": "Microsoft Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458",
-          "category": "Productivity"
-        },
-        {
-          "id": "284882215",
-          "name": "Facebook",
-          "developer": "Meta Platforms, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/23/38042309-1e34-7b09-70c3-ec5733769459/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/facebook/id284882215",
-          "category": "Social Networking"
+          "id": "1223471316",
+          "name": "Shop: Track, Pay, Discover",
+          "developer": "Shopify Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/46/2a/59462aa3-9989-5a4c-5b01-fb4484d269f7/AppIconProduction-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316",
+          "category": "Shopping"
         },
         {
           "id": "389801252",
@@ -3758,52 +3742,12 @@
           "category": "Photo & Video"
         },
         {
-          "id": "1113153706",
-          "name": "Microsoft Teams",
-          "developer": "Microsoft Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ac/d6/0facd652-7de5-115e-54f1-0308cfc4175d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706",
-          "category": "Business"
-        },
-        {
-          "id": "6758667154",
-          "name": "VibeShort: AI Short Dramas",
-          "developer": "AGILE QUADRANT MEDIA LIMITED",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/vibeshort-ai-short-dramas/id6758667154",
-          "category": "Entertainment"
-        },
-        {
-          "id": "1488269261",
-          "name": "Whatnot: Shop, Sell, Connect",
-          "developer": "Whatnot Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/bc/fb/dbbcfbe5-52c8-9762-67a6-e172c6fec957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261",
-          "category": "Shopping"
-        },
-        {
-          "id": "6768593043",
-          "name": "BlinkDrama - Short Dramas",
-          "developer": "Atlas Ventures Culture & Technology Limited",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b1/b1/bdb1b10f-6864-8042-4172-224ff32f9416/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043",
-          "category": "Entertainment"
-        },
-        {
-          "id": "544007664",
-          "name": "YouTube",
-          "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cc/4d/9dcc4d29-3199-cfdb-da1e-64ec30a4046b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/youtube/id544007664",
-          "category": "Photo & Video"
-        },
-        {
-          "id": "338137227",
-          "name": "Walmart: Shopping & Savings",
-          "developer": "Walmart",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/b4/a0/8cb4a015-fada-0d9d-754c-60202611f68a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227",
-          "category": "Shopping"
+          "id": "284882215",
+          "name": "Facebook",
+          "developer": "Meta Platforms, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/23/38042309-1e34-7b09-70c3-ec5733769459/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/facebook/id284882215",
+          "category": "Social Networking"
         },
         {
           "id": "407558537",
@@ -3814,59 +3758,43 @@
           "category": "Finance"
         },
         {
+          "id": "1113153706",
+          "name": "Microsoft Teams",
+          "developer": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ac/d6/0facd652-7de5-115e-54f1-0308cfc4175d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706",
+          "category": "Business"
+        },
+        {
+          "id": "1488269261",
+          "name": "Whatnot: Shop, Sell, Connect",
+          "developer": "Whatnot Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/bc/fb/dbbcfbe5-52c8-9762-67a6-e172c6fec957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261",
+          "category": "Shopping"
+        },
+        {
+          "id": "983156458",
+          "name": "Microsoft Authenticator",
+          "developer": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458",
+          "category": "Productivity"
+        },
+        {
+          "id": "544007664",
+          "name": "YouTube",
+          "developer": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cc/4d/9dcc4d29-3199-cfdb-da1e-64ec30a4046b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/youtube/id544007664",
+          "category": "Photo & Video"
+        },
+        {
           "id": "297606951",
           "name": "Amazon Shopping",
           "developer": "AMZN Mobile LLC",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c1/2c/7bc12c5f-0620-c507-9291-3cb011691946/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/amazon-shopping/id297606951",
-          "category": "Shopping"
-        },
-        {
-          "id": "686449807",
-          "name": "Telegram Messenger",
-          "developer": "Telegram FZ-LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/47/26/5247269d-36db-c530-6d22-1918a5d6e357/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
-          "category": "Social Networking"
-        },
-        {
-          "id": "6447582581",
-          "name": "Netflix Game Controller",
-          "developer": "Netflix, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581",
-          "category": "Entertainment"
-        },
-        {
-          "id": "6761538521",
-          "name": "StoryReel: Drama Shorts & TV",
-          "developer": "Equinox Enterprises‌ Technology Limited",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d4/52/09d452f4-aa2f-3a4a-eeae-86a2c76205f1/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/storyreel-drama-shorts-tv/id6761538521",
-          "category": "Entertainment"
-        },
-        {
-          "id": "535886823",
-          "name": "Google Chrome",
-          "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/google-chrome/id535886823",
-          "category": "Utilities"
-        },
-        {
-          "id": "6462904878",
-          "name": "BigFuture School",
-          "developer": "The College Board",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ea/f1/45eaf16c-cd22-bce5-60cc-77943cb07238/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878",
-          "category": "Education"
-        },
-        {
-          "id": "6745274862",
-          "name": "DealSeek: Coupons & Discounts",
-          "developer": "DealSeek LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/93/b3/0d93b3fb-e8f9-bb12-ef27-4bc31c7f0952/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862",
           "category": "Shopping"
         },
         {
@@ -3878,36 +3806,36 @@
           "category": "News"
         },
         {
-          "id": "324684580",
-          "name": "Spotify: Music and Podcasts",
-          "developer": "Spotify",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/af/e8/b2afe87d-2d6a-8e4b-01bf-73b5752996dc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
-          "category": "Music"
+          "id": "6446202561",
+          "name": "KICK - Live Streaming",
+          "developer": "Kick Streaming",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/bb/77/91bb7757-3b94-4438-912a-d1c6a9db6b11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561",
+          "category": "Photo & Video"
         },
         {
-          "id": "6670430706",
-          "name": "DramaWave - Dramas & Reels",
-          "developer": "SKYWORK AI PTE LTD",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/97/16/279716b1-a124-611e-04a6-911a8b845dc1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706",
+          "id": "686449807",
+          "name": "Telegram Messenger",
+          "developer": "Telegram FZ-LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/47/26/5247269d-36db-c530-6d22-1918a5d6e357/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807",
+          "category": "Social Networking"
+        },
+        {
+          "id": "535886823",
+          "name": "Google Chrome",
+          "developer": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/google-chrome/id535886823",
+          "category": "Utilities"
+        },
+        {
+          "id": "6447582581",
+          "name": "Netflix Game Controller",
+          "developer": "Netflix, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581",
           "category": "Entertainment"
-        },
-        {
-          "id": "6670324846",
-          "name": "Grok AI",
-          "developer": "X Corp.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c3/00/e9c30064-1dbc-5a25-3983-ac1ba3e7c693/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/grok-ai/id6670324846",
-          "category": "Productivity"
-        },
-        {
-          "id": "309735670",
-          "name": "Indeed Job Search",
-          "developer": "Indeed Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/34/ef/0234ef32-1e6d-2cf2-ed14-4adf897700f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670",
-          "category": "Business"
         },
         {
           "id": "719972451",
@@ -3918,36 +3846,52 @@
           "category": "Food & Drink"
         },
         {
-          "id": "1673567402",
-          "name": "Freecash - Get Paid Real Money",
-          "developer": "Freecash - Get Paid Real Money",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e4/cc/6ce4cc2f-7a7e-5674-fbf2-29d2cc3741ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/freecash-get-paid-real-money/id1673567402",
-          "category": "Entertainment"
-        },
-        {
-          "id": "1089294040",
-          "name": "Capital One Shopping: Save Now",
-          "developer": "Wikibuy, LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/02/8d/84028df9-25f4-3302-dcf2-cb0c983eab2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040",
+          "id": "338137227",
+          "name": "Walmart: Shopping & Savings",
+          "developer": "Walmart",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/9a/23/419a23c6-a920-3a95-e83b-e5b1a3789fa3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227",
           "category": "Shopping"
         },
         {
-          "id": "711923939",
-          "name": "Cash App",
-          "developer": "Block, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/27/fb/fb27fbdf-bca2-a85d-7595-d4894a70af65/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cash-app/id711923939",
-          "category": "Finance"
+          "id": "6670430706",
+          "name": "DramaWave - Dramas & Reels",
+          "developer": "SKYWORK AI PTE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/97/16/279716b1-a124-611e-04a6-911a8b845dc1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706",
+          "category": "Entertainment"
         },
         {
-          "id": "6446202561",
-          "name": "KICK - Live Streaming",
-          "developer": "Kick Streaming",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/bb/77/91bb7757-3b94-4438-912a-d1c6a9db6b11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561",
-          "category": "Photo & Video"
+          "id": "324684580",
+          "name": "Spotify: Music and Podcasts",
+          "developer": "Spotify",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/af/e8/b2afe87d-2d6a-8e4b-01bf-73b5752996dc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
+          "category": "Music"
+        },
+        {
+          "id": "6746049430",
+          "name": "FOX One: Live News, Sports, TV",
+          "developer": "Fox Digital Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2b/ac/002bac35-6013-6cd1-937b-55b83157c05b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430",
+          "category": "Entertainment"
+        },
+        {
+          "id": "6768593043",
+          "name": "BlinkDrama - Short Dramas",
+          "developer": "Atlas Ventures Culture & Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/b1/b1/bdb1b10f-6864-8042-4172-224ff32f9416/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043",
+          "category": "Entertainment"
+        },
+        {
+          "id": "6670324846",
+          "name": "Grok AI",
+          "developer": "X Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/c3/00/e9c30064-1dbc-5a25-3983-ac1ba3e7c693/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/grok-ai/id6670324846",
+          "category": "Productivity"
         },
         {
           "id": "368677368",
@@ -3966,12 +3910,52 @@
           "category": "Finance"
         },
         {
-          "id": "429047995",
-          "name": "Pinterest",
-          "developer": "Pinterest, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/67/0e/c3670e2b-5382-dbc3-6665-8976afbdad39/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/pinterest/id429047995",
-          "category": "Lifestyle"
+          "id": "711923939",
+          "name": "Cash App",
+          "developer": "Block, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/27/fb/fb27fbdf-bca2-a85d-7595-d4894a70af65/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cash-app/id711923939",
+          "category": "Finance"
+        },
+        {
+          "id": "1673567402",
+          "name": "Freecash - Get Paid Real Money",
+          "developer": "Freecash - Get Paid Real Money",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/e4/cc/6ce4cc2f-7a7e-5674-fbf2-29d2cc3741ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/freecash-get-paid-real-money/id1673567402",
+          "category": "Entertainment"
+        },
+        {
+          "id": "6745274862",
+          "name": "DealSeek: Coupons & Discounts",
+          "developer": "DealSeek LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/93/b3/0d93b3fb-e8f9-bb12-ef27-4bc31c7f0952/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862",
+          "category": "Shopping"
+        },
+        {
+          "id": "1089294040",
+          "name": "Capital One Shopping: Save Now",
+          "developer": "Wikibuy, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/02/8d/84028df9-25f4-3302-dcf2-cb0c983eab2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040",
+          "category": "Shopping"
+        },
+        {
+          "id": "6758667154",
+          "name": "VibeShort: AI Short Dramas",
+          "developer": "AGILE QUADRANT MEDIA LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/vibeshort-ai-short-dramas/id6758667154",
+          "category": "Entertainment"
+        },
+        {
+          "id": "384830320",
+          "name": "Life360: Family Safety & GPS",
+          "developer": "Life360",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/cb/0f/efcb0fca-4d85-ad97-a552-b298c8ccd2bc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320",
+          "category": "Social Networking"
         },
         {
           "id": "351727428",
@@ -3982,12 +3966,52 @@
           "category": "Finance"
         },
         {
-          "id": "384830320",
-          "name": "Life360: Family Safety & GPS",
-          "developer": "Life360",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/cb/0f/efcb0fca-4d85-ad97-a552-b298c8ccd2bc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320",
-          "category": "Social Networking"
+          "id": "6753982990",
+          "name": "AI Maker: Photo Video Filters",
+          "developer": "Hungry Birds",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/48/4c/81484c5f-8ee8-916c-39cd-437030620a9c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ai-maker-photo-video-filters/id6753982990",
+          "category": "Graphics & Design"
+        },
+        {
+          "id": "429047995",
+          "name": "Pinterest",
+          "developer": "Pinterest, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/67/0e/c3670e2b-5382-dbc3-6665-8976afbdad39/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pinterest/id429047995",
+          "category": "Lifestyle"
+        },
+        {
+          "id": "309735670",
+          "name": "Indeed Job Search",
+          "developer": "Indeed Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/34/ef/0234ef32-1e6d-2cf2-ed14-4adf897700f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670",
+          "category": "Business"
+        },
+        {
+          "id": "447188370",
+          "name": "Snapchat",
+          "developer": "Snap, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/a6/e8/59a6e85a-ab93-0ce9-c293-4e204450568e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/snapchat/id447188370",
+          "category": "Photo & Video"
+        },
+        {
+          "id": "500003565",
+          "name": "Ticketmaster－Buy, Sell Tickets",
+          "developer": "Ticketmaster",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565",
+          "category": "Entertainment"
+        },
+        {
+          "id": "6761538521",
+          "name": "StoryReel: Drama Shorts & TV",
+          "developer": "Equinox Enterprises‌ Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d4/52/09d452f4-aa2f-3a4a-eeae-86a2c76205f1/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/storyreel-drama-shorts-tv/id6761538521",
+          "category": "Entertainment"
         },
         {
           "id": "842842640",
@@ -4006,60 +4030,12 @@
           "category": "Business"
         },
         {
-          "id": "382952264",
-          "name": "MyChart",
-          "developer": "Epic",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/15/ee/8115ee3b-27ac-8c08-2845-c2ca22b29a5e/MyChartAppIcon-0-0-1x_U007epad-0-1-sRGB-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/mychart/id382952264",
-          "category": "Medical"
-        },
-        {
-          "id": "6738967378",
-          "name": "Edits: Video Editor",
-          "developer": "Instagram, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/23/1e/ea231efe-80fd-878e-0504-279925f00baf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/edits-video-editor/id6738967378",
-          "category": "Photo & Video"
-        },
-        {
-          "id": "541164041",
-          "name": "Microsoft Copilot",
-          "developer": "Microsoft Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041",
-          "category": "Productivity"
-        },
-        {
-          "id": "545519333",
-          "name": "Amazon Prime Video",
-          "developer": "AMZN Mobile LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1a/ad/021aad30-18ea-3f77-0a0c-eefc68a33a9c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
-          "category": "Entertainment"
-        },
-        {
-          "id": "6753982990",
-          "name": "AI Maker: Photo Video Filters",
-          "developer": "Hungry Birds",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/48/4c/81484c5f-8ee8-916c-39cd-437030620a9c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ai-maker-photo-video-filters/id6753982990",
-          "category": "Graphics & Design"
-        },
-        {
-          "id": "507874739",
-          "name": "Google Drive",
-          "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b2/b7/3ab2b7f7-5688-f326-51e9-c165e3b022ef/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/google-drive/id507874739",
-          "category": "Productivity"
-        },
-        {
-          "id": "447188370",
-          "name": "Snapchat",
-          "developer": "Snap, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/aa/03/ccaa03e2-6d86-915d-bdd9-1b052354a544/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/snapchat/id447188370",
-          "category": "Photo & Video"
+          "id": "1668228991",
+          "name": "Dave’s Hot Chicken®",
+          "developer": "Dave's Hot Chicken",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/8e/5e/4e8e5ed4-522d-37ea-3846-73af02f99de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/daves-hot-chicken/id1668228991",
+          "category": "Food & Drink"
         },
         {
           "id": "1111876388",
@@ -4070,28 +4046,28 @@
           "category": "Lifestyle"
         },
         {
-          "id": "6746049430",
-          "name": "FOX One: Live News, Sports, TV",
-          "developer": "Fox Digital Services, LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2b/ac/002bac35-6013-6cd1-937b-55b83157c05b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430",
-          "category": "Entertainment"
+          "id": "382952264",
+          "name": "MyChart",
+          "developer": "Epic",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/15/ee/8115ee3b-27ac-8c08-2845-c2ca22b29a5e/MyChartAppIcon-0-0-1x_U007epad-0-1-sRGB-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/mychart/id382952264",
+          "category": "Medical"
         },
         {
-          "id": "500003565",
-          "name": "Ticketmaster－Buy, Sell Tickets",
-          "developer": "Ticketmaster",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/ad/af/99adafd0-e850-b2a0-5181-12d4910bbf7d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565",
-          "category": "Entertainment"
+          "id": "507874739",
+          "name": "Google Drive",
+          "developer": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b2/b7/3ab2b7f7-5688-f326-51e9-c165e3b022ef/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/google-drive/id507874739",
+          "category": "Productivity"
         },
         {
-          "id": "1064216828",
-          "name": "Reddit",
-          "developer": "REDDIT, INC.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/reddit/id1064216828",
-          "category": "News"
+          "id": "6738967378",
+          "name": "Edits: Video Editor",
+          "developer": "Instagram, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/23/1e/ea231efe-80fd-878e-0504-279925f00baf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/edits-video-editor/id6738967378",
+          "category": "Photo & Video"
         },
         {
           "id": "985746746",
@@ -4102,6 +4078,14 @@
           "category": "Social Networking"
         },
         {
+          "id": "1619030760",
+          "name": "zeta: AI Chat, Story, Play",
+          "developer": "Scatter Lab, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d6/da/26d6da15-9352-c7dc-874c-b7de8f368b2d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/zeta-ai-chat-story-play/id1619030760",
+          "category": "Entertainment"
+        },
+        {
           "id": "6751921248",
           "name": "Rips by Triumph",
           "developer": "Triumph Arcade",
@@ -4110,36 +4094,28 @@
           "category": "Shopping"
         },
         {
-          "id": "530168168",
-          "name": "Paramount+",
-          "developer": "CBS Interactive",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/e2/68/dee268ee-6414-d88c-68da-217e44501021/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/paramount/id530168168",
-          "category": "Entertainment"
-        },
-        {
-          "id": "951937596",
-          "name": "Microsoft Outlook",
+          "id": "541164041",
+          "name": "Microsoft Copilot",
           "developer": "Microsoft Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/84/db/c684db5d-e933-9df3-f9be-6445df9138af/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c3/21/f0c32163-e21b-fbfd-ba3f-1cf01c8a2d33/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/microsoft-copilot/id541164041",
           "category": "Productivity"
         },
         {
-          "id": "436491861",
-          "name": "Domino's Pizza USA",
-          "developer": "Domino's Pizza LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cf/92/9ecf9231-51f5-0b3d-51c1-1294e5eda2b4/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/dominos-pizza-usa/id436491861",
-          "category": "Food & Drink"
+          "id": "1064216828",
+          "name": "Reddit",
+          "developer": "REDDIT, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/reddit/id1064216828",
+          "category": "News"
         },
         {
-          "id": "288429040",
-          "name": "LinkedIn: Community & Network",
-          "developer": "LinkedIn Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/c3/65/c7c365d3-80e4-662a-4fc3-1b8268bdb32a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/linkedin-community-network/id288429040",
-          "category": "Business"
+          "id": "6794501026",
+          "name": "Grok Bot",
+          "developer": "X Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/01/4e/d6014ece-d71b-88a0-116d-dd0e946930ed/app-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/grok-bot/id6794501026",
+          "category": "Productivity"
         },
         {
           "id": "6448849666",
@@ -4150,14 +4126,6 @@
           "category": "Reference"
         },
         {
-          "id": "897446215",
-          "name": "Canva AI Photo & Video Editor",
-          "developer": "Canva",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/52/3c/54523c58-1b89-579a-2b94-c1d09baeb17b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215",
-          "category": "Photo & Video"
-        },
-        {
           "id": "570060128",
           "name": "Duolingo: Learn Languages",
           "developer": "Duolingo",
@@ -4166,52 +4134,36 @@
           "category": "Education"
         },
         {
-          "id": "6767364919",
-          "name": "Trump Accounts: Official App",
-          "developer": "U.S. Department of the Treasury",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/61/dc/1361dcfc-3281-b0eb-f57f-607586f342e0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919",
-          "category": "Finance"
-        },
-        {
-          "id": "1453880000",
-          "name": "Verizon Protect",
-          "developer": "Verizon Wireless",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/15/da/d815dab8-ed44-cda2-8087-e3230f2c1555/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/verizon-protect/id1453880000",
-          "category": "Utilities"
-        },
-        {
-          "id": "1446075923",
-          "name": "Disney+",
-          "developer": "Disney",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/5c/3c/275c3cd1-638d-f7e6-160d-a047221f7672/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/disney/id1446075923",
-          "category": "Entertainment"
-        },
-        {
-          "id": "6758488784",
-          "name": "Soda Reels",
-          "developer": "STATION DEPART POINT",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/07/7e/40077e12-49a8-504b-5570-83af4253fa7d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/soda-reels/id6758488784",
-          "category": "Entertainment"
-        },
-        {
-          "id": "401626263",
-          "name": "Airbnb",
-          "developer": "Airbnb, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/03/4d/2f034d28-524c-6856-29e9-521b05598438/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/airbnb/id401626263",
-          "category": "Travel"
-        },
-        {
-          "id": "1605170923",
-          "name": "GoWish - Your Digital Wishlist",
-          "developer": "Onskeskyen ApS",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/71/fa/6671fac5-78c5-373a-beb9-b84006409162/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923",
+          "id": "1662982304",
+          "name": "Partiful: Party Invite Maker",
+          "developer": "Partiful",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/c5/35/6ac535a3-75ce-acb3-4088-52c5791e69b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/partiful-party-invite-maker/id1662982304",
           "category": "Lifestyle"
+        },
+        {
+          "id": "897446215",
+          "name": "Canva AI Photo & Video Editor",
+          "developer": "Canva",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/52/3c/54523c58-1b89-579a-2b94-c1d09baeb17b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/canva-ai-photo-video-editor/id897446215",
+          "category": "Photo & Video"
+        },
+        {
+          "id": "288429040",
+          "name": "LinkedIn: Community & Network",
+          "developer": "LinkedIn Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/c3/65/c7c365d3-80e4-662a-4fc3-1b8268bdb32a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/linkedin-community-network/id288429040",
+          "category": "Business"
+        },
+        {
+          "id": "298867247",
+          "name": "Chase Mobile®: Bank & Invest",
+          "developer": "JPMorgan Chase & Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/d1/7b/91d17bdc-b6a8-298b-0b28-16d229749bc7/ChaseLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247",
+          "category": "Finance"
         },
         {
           "id": "878577184",
@@ -4222,6 +4174,22 @@
           "category": "Shopping"
         },
         {
+          "id": "6462904878",
+          "name": "BigFuture School",
+          "developer": "The College Board",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ea/f1/45eaf16c-cd22-bce5-60cc-77943cb07238/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878",
+          "category": "Education"
+        },
+        {
+          "id": "444553167",
+          "name": "ADP Mobile Solutions",
+          "developer": "ADP, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/2b/03/442b0399-ecec-c121-a67b-588fcd649853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/adp-mobile-solutions/id444553167",
+          "category": "Business"
+        },
+        {
           "id": "1182474649",
           "name": "Fetch: Earn Rewards Every Day",
           "developer": "Fetch Rewards, LLC",
@@ -4230,35 +4198,51 @@
           "category": "Shopping"
         },
         {
-          "id": "444553167",
-          "name": "ADP Mobile Solutions",
-          "developer": "ADP, Inc",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/7c/11/6b7c1120-a1ff-06db-a5c7-25c9af69aa96/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/adp-mobile-solutions/id444553167",
-          "category": "Business"
+          "id": "951937596",
+          "name": "Microsoft Outlook",
+          "developer": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/84/db/c684db5d-e933-9df3-f9be-6445df9138af/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596",
+          "category": "Productivity"
         },
         {
-          "id": "1115120118",
-          "name": "Klarna: Smarter everyday money",
-          "developer": "Klarna Bank AB",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/22/c0/4522c0f6-d5a7-e779-344f-0bff77ba6aef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118",
-          "category": "Finance"
+          "id": "401626263",
+          "name": "Airbnb",
+          "developer": "Airbnb, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/03/4d/2f034d28-524c-6856-29e9-521b05598438/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/airbnb/id401626263",
+          "category": "Travel"
         },
         {
-          "id": "836215269",
-          "name": "Chime® – Mobile Banking",
-          "developer": "Chime Financial, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/32/c7/b332c7fb-46e9-79ec-a982-6d2193cf02c0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269",
-          "category": "Finance"
+          "id": "530168168",
+          "name": "Paramount+",
+          "developer": "CBS Interactive",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/e2/68/dee268ee-6414-d88c-68da-217e44501021/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/paramount/id530168168",
+          "category": "Entertainment"
         },
         {
-          "id": "1631584032",
-          "name": "PLAYFUL REWARDS: Earn Rewards",
-          "developer": "Playful Rewards",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/92/ba/3992ba15-1951-ca0d-9c3e-6aad4e6d179e/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032",
+          "id": "529379082",
+          "name": "Lyft",
+          "developer": "Lyft, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ce/00/e7ce0014-502d-18c5-7ea8-9c0b10d2167b/PassengerRelease-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/lyft/id529379082",
+          "category": "Travel"
+        },
+        {
+          "id": "497387361",
+          "name": "Taco Bell Fast Food & Delivery",
+          "developer": "Taco Bell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/cf/4e/2dcf4e40-b30e-825d-ed98-f8823f00f33f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/taco-bell-fast-food-delivery/id497387361",
+          "category": "Food & Drink"
+        },
+        {
+          "id": "1446075923",
+          "name": "Disney+",
+          "developer": "Disney",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/5c/3c/275c3cd1-638d-f7e6-160d-a047221f7672/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/disney/id1446075923",
           "category": "Entertainment"
         },
         {
@@ -4270,12 +4254,12 @@
           "category": "Entertainment"
         },
         {
-          "id": "842849113",
-          "name": "Google Sheets",
-          "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/7f/14/6e7f1460-147c-88a2-d94b-9c8d940c3b37/sheets_2026q3_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/google-sheets/id842849113",
-          "category": "Productivity"
+          "id": "836215269",
+          "name": "Chime® – Mobile Banking",
+          "developer": "Chime Financial, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/32/c7/b332c7fb-46e9-79ec-a982-6d2193cf02c0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269",
+          "category": "Finance"
         },
         {
           "id": "482066631",
@@ -4286,20 +4270,20 @@
           "category": "Entertainment"
         },
         {
+          "id": "6767364919",
+          "name": "Trump Accounts: Official App",
+          "developer": "U.S. Department of the Treasury",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/61/dc/1361dcfc-3281-b0eb-f57f-607586f342e0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919",
+          "category": "Finance"
+        },
+        {
           "id": "535509415",
           "name": "Costco",
           "developer": "Costco Wholesale Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/90/8e/3f908e7e-01d6-fc67-b8a9-a9fb81b52a19/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/f7/d0/70f7d036-0feb-f95e-6081-57056ee8efce/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/costco/id535509415",
           "category": "Shopping"
-        },
-        {
-          "id": "6742024490",
-          "name": "Reco Social",
-          "developer": "Reco Social, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/ec/16/54ec16e9-ed7f-dd75-4cd7-cdffe1709d57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/reco-social/id6742024490",
-          "category": "Social Networking"
         },
         {
           "id": "6480136315",
@@ -4310,52 +4294,12 @@
           "category": "Music"
         },
         {
-          "id": "388497605",
-          "name": "Google Authenticator",
+          "id": "842849113",
+          "name": "Google Sheets",
           "developer": "Google",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/2b/df/702bdfd3-b008-3dd0-af69-da2c920847a2/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/google-authenticator/id388497605",
-          "category": "Utilities"
-        },
-        {
-          "id": "298867247",
-          "name": "Chase Mobile®: Bank & Invest",
-          "developer": "JPMorgan Chase & Co.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/d1/7b/91d17bdc-b6a8-298b-0b28-16d229749bc7/ChaseLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247",
-          "category": "Finance"
-        },
-        {
-          "id": "1410234033",
-          "name": "Shell: Fuel, Charge & More",
-          "developer": "Shell Information Technology International B.V.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/29/ec/9d29ec4f-c978-fba8-46f5-0eea1a5d6b59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/shell-fuel-charge-more/id1410234033",
-          "category": "Navigation"
-        },
-        {
-          "id": "529379082",
-          "name": "Lyft",
-          "developer": "Lyft, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/ce/00/e7ce0014-502d-18c5-7ea8-9c0b10d2167b/PassengerRelease-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/lyft/id529379082",
-          "category": "Travel"
-        },
-        {
-          "id": "1619030760",
-          "name": "zeta: AI Chat, Story, Play",
-          "developer": "Scatter Lab, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d6/da/26d6da15-9352-c7dc-874c-b7de8f368b2d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/zeta-ai-chat-story-play/id1619030760",
-          "category": "Entertainment"
-        },
-        {
-          "id": "1510944943",
-          "name": "Cleanup: Phone Storage Cleaner",
-          "developer": "DEEP FLOW SOFTWARE SERVICES",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943",
-          "category": "Utilities"
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/7f/14/6e7f1460-147c-88a2-d94b-9c8d940c3b37/sheets_2026q3_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/google-sheets/id842849113",
+          "category": "Productivity"
         },
         {
           "id": "1054033219",
@@ -4366,12 +4310,68 @@
           "category": "Entertainment"
         },
         {
+          "id": "1115120118",
+          "name": "Klarna: Smarter everyday money",
+          "developer": "Klarna Bank AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/22/c0/4522c0f6-d5a7-e779-344f-0bff77ba6aef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118",
+          "category": "Finance"
+        },
+        {
+          "id": "388497605",
+          "name": "Google Authenticator",
+          "developer": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/2b/df/702bdfd3-b008-3dd0-af69-da2c920847a2/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/google-authenticator/id388497605",
+          "category": "Utilities"
+        },
+        {
+          "id": "488818252",
+          "name": "Chick-fil-A",
+          "developer": "Chick-fil-A, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/2f/23/6b2f232f-cd3e-b7db-081c-f908c2a23851/app-icon-release-glass-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/chick-fil-a/id488818252",
+          "category": "Food & Drink"
+        },
+        {
+          "id": "436491861",
+          "name": "Domino's Pizza USA",
+          "developer": "Domino's Pizza LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cf/92/9ecf9231-51f5-0b3d-51c1-1294e5eda2b4/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/dominos-pizza-usa/id436491861",
+          "category": "Food & Drink"
+        },
+        {
+          "id": "1510944943",
+          "name": "Cleanup: Phone Storage Cleaner",
+          "developer": "DEEP FLOW SOFTWARE SERVICES",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943",
+          "category": "Utilities"
+        },
+        {
           "id": "436672029",
           "name": "AliExpress - Shopping App",
           "developer": "Alibaba",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/d1/ba/e3d1ba6f-8ced-5590-8a75-30ea27603aea/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/aliexpress-shopping-app/id436672029",
           "category": "Shopping"
+        },
+        {
+          "id": "282614216",
+          "name": "eBay online shopping & selling",
+          "developer": "eBay Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/ea/dc/10eadc23-55af-a654-3e6e-498a040b2560/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216",
+          "category": "Shopping"
+        },
+        {
+          "id": "1508186374",
+          "name": "Peacock TV: Stream TV & Movies",
+          "developer": "Peacock TV LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/93/89/c3938936-3baa-3cec-92ac-b3c9c37f251a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374",
+          "category": "Entertainment"
         }
       ]
     },
@@ -4379,7 +4379,7 @@
       "country": "us",
       "type": "games-free",
       "sourceURL": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6014/json",
-      "checkedAt": "2026-10-15T04:50:06.944010Z",
+      "checkedAt": "2026-10-16T04:40:36.638257Z",
       "results": [
         {
           "id": "6761760135",
@@ -4414,6 +4414,14 @@
           "category": "Games"
         },
         {
+          "id": "6760796215",
+          "name": "Little Kitty, Big City",
+          "developer": "Double Dagger Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/little-kitty-big-city/id6760796215?uo=2",
+          "category": "Games"
+        },
+        {
           "id": "6468921495",
           "name": "Vita Mahjong",
           "developer": "Vita Studio",
@@ -4438,6 +4446,14 @@
           "category": "Games"
         },
         {
+          "id": "6748084174",
+          "name": "Smash Fest!",
+          "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f7/db/baf7db1f-9e85-ab76-255f-85490243c164/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/smash-fest/id6748084174?uo=2",
+          "category": "Games"
+        },
+        {
           "id": "638689075",
           "name": "Township",
           "developer": "Playrix",
@@ -4449,7 +4465,7 @@
           "id": "431946152",
           "name": "Roblox",
           "developer": "Roblox Corporation",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/a9/a5/96a9a586-952f-c5b2-4898-085555d49d52/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c4/83/9ec48355-15d8-9eef-02a0-4bba07640bef/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/roblox/id431946152?uo=2",
           "category": "Games"
         },
@@ -4462,51 +4478,11 @@
           "category": "Games"
         },
         {
-          "id": "6748084174",
-          "name": "Smash Fest!",
-          "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f7/db/baf7db1f-9e85-ab76-255f-85490243c164/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/smash-fest/id6748084174?uo=2",
-          "category": "Games"
-        },
-        {
           "id": "6758326278",
           "name": "Amaze GO!",
           "developer": "Oakever Games",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/84/6a/70846ab8-ec61-7c2b-c3e8-8f93a86005e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/amaze-go/id6758326278?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6779167923",
-          "name": "Colony Flow!",
-          "developer": "ABI GLOBAL LTD.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/3d/f4/a83df450-de5d-7150-1b8c-1e73328fa9f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/colony-flow/id6779167923?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1623318294",
-          "name": "Gossip Harbor®: Merge & Story",
-          "developer": "Microfun Limited",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6797929772",
-          "name": "All Dubs",
-          "developer": "Vaulty Studios Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9e/d9/5b9ed9d9-e003-1e38-1cbc-63e481141771/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/all-dubs/id6797929772?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6759763476",
-          "name": "Bus Traffic Fever!",
-          "developer": "GOODROID,Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/08/c3/1b08c380-77f7-cb9e-a7ab-c815348d09d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/bus-traffic-fever/id6759763476?uo=2",
           "category": "Games"
         },
         {
@@ -4518,11 +4494,35 @@
           "category": "Games"
         },
         {
-          "id": "6780891673",
-          "name": "Royal Smash! - Physics Puzzle",
-          "developer": "Cypher Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/9f/9f/249f9f3e-13d0-7db0-f4a3-80a007ed51a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/royal-smash-physics-puzzle/id6780891673?uo=2",
+          "id": "1623318294",
+          "name": "Gossip Harbor®: Merge & Story",
+          "developer": "Microfun Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6779167923",
+          "name": "Colony Flow!",
+          "developer": "ABI GLOBAL LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/3d/f4/a83df450-de5d-7150-1b8c-1e73328fa9f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/colony-flow/id6779167923?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6759763476",
+          "name": "Bus Traffic Fever!",
+          "developer": "GOODROID,Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/08/c3/1b08c380-77f7-cb9e-a7ab-c815348d09d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/bus-traffic-fever/id6759763476?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6797929772",
+          "name": "All Dubs",
+          "developer": "Vaulty Studios Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9e/d9/5b9ed9d9-e003-1e38-1cbc-63e481141771/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/all-dubs/id6797929772?uo=2",
           "category": "Games"
         },
         {
@@ -4534,19 +4534,27 @@
           "category": "Games"
         },
         {
-          "id": "1621328561",
-          "name": "MONOPOLY GO!",
-          "developer": "Scopely, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/5a/ed/655aed4a-2a6d-2729-855e-aee89e6d5477/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2",
+          "id": "6471045672",
+          "name": "Tasty Travels: Merge Game",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/5f/14/4a5f14ed-ae2d-fcc9-2974-967b69632591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=2",
           "category": "Games"
         },
         {
-          "id": "6771681639",
-          "name": "Fish Sort Puzzle - Bubble Jam",
-          "developer": "Shycheese",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/52/c4/e452c46c-5a09-d496-6e05-e4c80f4a5b1f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/fish-sort-puzzle-bubble-jam/id6771681639?uo=2",
+          "id": "6757140488",
+          "name": "Sand Blocks: Drop Puzzle",
+          "developer": "Rollic Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8f/1e/388f1ef7-cd21-187a-7e1d-a9258d4fd54a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/sand-blocks-drop-puzzle/id6757140488?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6780891673",
+          "name": "Royal Smash! - Physics Puzzle",
+          "developer": "Cypher Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/83/4d/91834dce-37a5-f269-0fc9-526c049d70f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/royal-smash-physics-puzzle/id6780891673?uo=2",
           "category": "Games"
         },
         {
@@ -4574,6 +4582,30 @@
           "category": "Games"
         },
         {
+          "id": "1621328561",
+          "name": "MONOPOLY GO!",
+          "developer": "Scopely, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/5a/ed/655aed4a-2a6d-2729-855e-aee89e6d5477/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6771681639",
+          "name": "Fish Sort Puzzle - Bubble Jam",
+          "developer": "Shycheese",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/52/c4/e452c46c-5a09-d496-6e05-e4c80f4a5b1f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/fish-sort-puzzle-bubble-jam/id6771681639?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6767434212",
+          "name": "Dragonbound: Wings of Magic",
+          "developer": "Efun Global Company Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/24/a1/1f24a12b-6559-d2b6-70a1-28cb04bbd039/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/dragonbound-wings-of-magic/id6767434212?uo=2",
+          "category": "Games"
+        },
+        {
           "id": "1608987929",
           "name": "Triumph Arcade",
           "developer": "Triumph Arcade",
@@ -4590,83 +4622,11 @@
           "category": "Games"
         },
         {
-          "id": "6744975195",
-          "name": "Sled Surfers",
-          "developer": "Crazy Labs",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/87/62/6f876277-c45f-5973-ef0b-7230f166d56c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/sled-surfers/id6744975195?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "developer": "Century Games Pte. Ltd.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/5f/14/4a5f14ed-ae2d-fcc9-2974-967b69632591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=2",
-          "category": "Games"
-        },
-        {
           "id": "6483539426",
           "name": "Fortnite",
           "developer": "Epic Games Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/86/93/6d8693b7-1679-8e21-7e38-cf8505ad2f5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d4/73/b4d47360-62e1-30f0-6c39-e24dc32cdaf6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/fortnite/id6483539426?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6761757565",
-          "name": "Colorever: Gem Art Puzzle",
-          "developer": "Oakever Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/71/4b/c7714b57-4152-99ac-d5a9-db2f0c5809fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/colorever-gem-art-puzzle/id6761757565?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1602508478",
-          "name": "Word Search Explorer®",
-          "developer": "PlaySimple Games Pte Ltd",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/28/69/36286937-1e26-958c-48d7-0c9291b8a9ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/word-search-explorer/id1602508478?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6748950306",
-          "name": "Solitaire Associations Journey",
-          "developer": "Hitapps Games LTD",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/58/42/2958425a-c849-cc2a-e588-ca832e94bc28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/solitaire-associations-journey/id6748950306?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6443575749",
-          "name": "Whiteout Survival",
-          "developer": "Century Games Pte. Ltd.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/whiteout-survival/id6443575749?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6760530627",
-          "name": "Mahjong Clash: Win Real Cash",
-          "developer": "Aviagames Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/79/bb4f7953-9b1b-4776-6fd1-ffeca553c5ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/mahjong-clash-win-real-cash/id6760530627?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6748397500",
-          "name": "Arrows – Puzzle Escape",
-          "developer": "Lessmore GmbH",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e1/58/f6e1588a-541b-6986-d24f-4806c1b81564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/arrows-puzzle-escape/id6748397500?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6767180267",
-          "name": "Satisfying Clean ASMR",
-          "developer": "DongZ Game",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/84/93/81849387-7103-2e79-b756-7467e2942d18/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/satisfying-clean-asmr/id6767180267?uo=2",
           "category": "Games"
         },
         {
@@ -4678,19 +4638,27 @@
           "category": "Games"
         },
         {
-          "id": "6769314786",
-          "name": "Food Hunt: Pixel Puzzle",
-          "developer": "FUNFINITY PTE. LTD",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a3/e9/7fa3e906-85f1-778d-27c2-abd4e1b5b78e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/food-hunt-pixel-puzzle/id6769314786?uo=2",
+          "id": "1602508478",
+          "name": "Word Search Explorer®",
+          "developer": "PlaySimple Games Pte Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/7c/2d/0d7c2de0-059a-ab01-5ae5-34f83d0c61b7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/word-search-explorer/id1602508478?uo=2",
           "category": "Games"
         },
         {
-          "id": "512939461",
-          "name": "Subway Surfers",
-          "developer": "Sybo Games ApS",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/2c/63/f92c63f0-bfc0-150b-d5e5-a8fed31cb934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/subway-surfers/id512939461?uo=2",
+          "id": "6744975195",
+          "name": "Sled Surfers",
+          "developer": "Crazy Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/87/62/6f876277-c45f-5973-ef0b-7230f166d56c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/sled-surfers/id6744975195?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6443575749",
+          "name": "Whiteout Survival",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/whiteout-survival/id6443575749?uo=2",
           "category": "Games"
         },
         {
@@ -4710,75 +4678,67 @@
           "category": "Games"
         },
         {
+          "id": "6760530627",
+          "name": "Mahjong Clash: Win Real Cash",
+          "developer": "Aviagames Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/79/bb4f7953-9b1b-4776-6fd1-ffeca553c5ea/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/mahjong-clash-win-real-cash/id6760530627?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6748950306",
+          "name": "Solitaire Associations Journey",
+          "developer": "Hitapps Games LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/58/42/2958425a-c849-cc2a-e588-ca832e94bc28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/solitaire-associations-journey/id6748950306?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6748397500",
+          "name": "Arrows – Puzzle Escape",
+          "developer": "Lessmore GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e1/58/f6e1588a-541b-6986-d24f-4806c1b81564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/arrows-puzzle-escape/id6748397500?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "512939461",
+          "name": "Subway Surfers",
+          "developer": "Sybo Games ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/2c/63/f92c63f0-bfc0-150b-d5e5-a8fed31cb934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/subway-surfers/id512939461?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6761757565",
+          "name": "Colorever: Gem Art Puzzle",
+          "developer": "Oakever Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/71/4b/c7714b57-4152-99ac-d5a9-db2f0c5809fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/colorever-gem-art-puzzle/id6761757565?uo=2",
+          "category": "Games"
+        },
+        {
           "id": "6746328263",
           "name": "Castle Busters",
           "developer": "Voodoo",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/97/ed/7297ed6f-d3dd-061b-abe5-463e6fa9abf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b0/c5/72b0c505-58a5-6d8c-0e60-4934bcf59bbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/castle-busters/id6746328263?uo=2",
           "category": "Games"
         },
         {
-          "id": "6754464806",
-          "name": "Car Evolve",
-          "developer": "Heseri Games Inc",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/c6/bb/22c6bbdb-c2c0-5ae1-d79e-1abdde796746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/car-evolve/id6754464806?uo=2",
+          "id": "6767180267",
+          "name": "Satisfying Clean ASMR",
+          "developer": "DongZ Game",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/84/93/81849387-7103-2e79-b756-7467e2942d18/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/satisfying-clean-asmr/id6767180267?uo=2",
           "category": "Games"
         },
         {
-          "id": "6742809194",
-          "name": "Warline: Sniper Strike",
-          "developer": "Powerfantasy",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/91/e0/3f91e0f3-ed96-95c6-6231-e53367abe96f/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/warline-sniper-strike/id6742809194?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6757140488",
-          "name": "Sand Blocks: Drop Puzzle",
-          "developer": "Rollic Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8f/1e/388f1ef7-cd21-187a-7e1d-a9258d4fd54a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/sand-blocks-drop-puzzle/id6757140488?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1287282214",
-          "name": "Call of Duty®: Mobile",
-          "developer": "Activision Publishing, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6739554056",
-          "name": "Kingshot",
-          "developer": "Century Games Pte. Ltd.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/kingshot/id6739554056?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "553834731",
-          "name": "Candy Crush Saga",
-          "developer": "King",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/83/04/728304ea-32e2-1979-e845-e5f25dd731f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "543186831",
-          "name": "8 Ball Pool™",
-          "developer": "Miniclip.com",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/92/859c9268-1e05-0d6e-601e-f1d723fececb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/8-ball-pool/id543186831?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6503697761",
-          "name": "Playtest Pro by BestPlay",
-          "developer": "Bestplay Systems",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d1/44/3dd144e3-cf83-a6c1-8eeb-3b7d0fd3c377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/playtest-pro-by-bestplay/id6503697761?uo=2",
+          "id": "6769314786",
+          "name": "Food Hunt: Pixel Puzzle",
+          "developer": "FUNFINITY PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a3/e9/7fa3e906-85f1-778d-27c2-abd4e1b5b78e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/food-hunt-pixel-puzzle/id6769314786?uo=2",
           "category": "Games"
         },
         {
@@ -4790,19 +4750,51 @@
           "category": "Games"
         },
         {
-          "id": "1446254576",
-          "name": "Solitaire Cash: Win Real Money",
-          "developer": "Papaya Gaming",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/20/ab/d020ab9e-4d4b-b7b4-a1d4-e37c10b825f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/solitaire-cash-win-real-money/id1446254576?uo=2",
+          "id": "1287282214",
+          "name": "Call of Duty®: Mobile",
+          "developer": "Activision Publishing, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/66/35/bc6635d9-68f4-6ab5-969f-92e034a50cfa/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214?uo=2",
           "category": "Games"
         },
         {
-          "id": "1193508329",
-          "name": "Sudoku.com - Number Games",
-          "developer": "Easybrain Ltd",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/8a/33/388a338e-41f4-84e8-369b-8a6fdc08e752/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/sudoku-com-number-games/id1193508329?uo=2",
+          "id": "6742809194",
+          "name": "Warline: Sniper Strike",
+          "developer": "Powerfantasy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/91/e0/3f91e0f3-ed96-95c6-6231-e53367abe96f/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/warline-sniper-strike/id6742809194?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6754464806",
+          "name": "Car Evolve",
+          "developer": "Heseri Games Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/b6/11/edb61195-1ef5-7ff2-cd77-8549dfce7bb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/car-evolve/id6754464806?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6739554056",
+          "name": "Kingshot",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/kingshot/id6739554056?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "543186831",
+          "name": "8 Ball Pool™",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9c/92/859c9268-1e05-0d6e-601e-f1d723fececb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/8-ball-pool/id543186831?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6783815362",
+          "name": "Word Tiles - Relaxing Puzzle",
+          "developer": "Agave Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/88/8b/db888b0b-837e-eb0b-83b2-761289a77416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/word-tiles-relaxing-puzzle/id6783815362?uo=2",
           "category": "Games"
         },
         {
@@ -4814,6 +4806,46 @@
           "category": "Games"
         },
         {
+          "id": "6755455500",
+          "name": "Hollywood Merge",
+          "developer": "VoyagerOne",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b0/87/fbb087b7-9cd2-7055-9569-ce9e9d0a54d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/hollywood-merge/id6755455500?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6754009969",
+          "name": "Jackpot Nights",
+          "developer": "Lucky Link Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d4/08/81d408a2-24a4-6d64-592e-2fc01c22119f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/jackpot-nights/id6754009969?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "1193508329",
+          "name": "Sudoku.com - Number Games",
+          "developer": "Easybrain Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/8a/33/388a338e-41f4-84e8-369b-8a6fdc08e752/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/sudoku-com-number-games/id1193508329?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "1446254576",
+          "name": "Solitaire Cash: Win Real Money",
+          "developer": "Papaya Gaming",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/51/ad/3951ad9b-ebf2-d9f6-4feb-41fc97423163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/solitaire-cash-win-real-money/id1446254576?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "553834731",
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/83/04/728304ea-32e2-1979-e845-e5f25dd731f6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=2",
+          "category": "Games"
+        },
+        {
           "id": "1423046460",
           "name": "Paper.io 2",
           "developer": "Voodoo",
@@ -4822,42 +4854,42 @@
           "category": "Games"
         },
         {
-          "id": "6446197181",
-          "name": "Glow Fashion Idol",
-          "developer": "Crazy Labs",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/40/31/9040311b-27be-8eb0-d42a-99e9e40fb8d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/glow-fashion-idol/id6446197181?uo=2",
+          "id": "1606549505",
+          "name": "Royal Kingdom",
+          "developer": "Dream Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/ca/e0/fccae0ce-7543-a0e0-0651-7910437510bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2",
           "category": "Games"
         },
         {
-          "id": "6755183085",
-          "name": "Yarn Loop: Knit Puzzle",
-          "developer": "Combo Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/8b/5b/3a8b5b9c-df82-8129-0025-f6f5cadcc03c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/yarn-loop-knit-puzzle/id6755183085?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6754009969",
-          "name": "Jackpot Nights",
-          "developer": "Lucky Link Ltd.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/fa/02/50fa023b-ebbc-4c53-a163-6e501510adc6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/jackpot-nights/id6754009969?uo=2",
+          "id": "6503697761",
+          "name": "Playtest Pro by BestPlay",
+          "developer": "Bestplay Systems",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d1/44/3dd144e3-cf83-a6c1-8eeb-3b7d0fd3c377/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/playtest-pro-by-bestplay/id6503697761?uo=2",
           "category": "Games"
         },
         {
           "id": "6755495631",
           "name": "Packz",
           "developer": "Packz",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/d3/ec/66d3ecd2-ac79-6e52-fe4b-313182a8b079/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/b5/f8/0eb5f840-db65-1923-6f10-96e3efd69355/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/100x100bb.png",
           "url": "https://apps.apple.com/us/app/packz/id6755495631?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "1351168404",
+          "name": "Among Us!",
+          "developer": "InnerSloth LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/among-us/id1351168404?uo=2",
           "category": "Games"
         },
         {
           "id": "1562817072",
           "name": "Mob Control",
           "developer": "Voodoo",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/47/9f/b9479f72-3bd6-4b1f-4817-b6ea30d05832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/b4/b7/59b4b791-06f7-208a-5762-05d8069965d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
           "url": "https://apps.apple.com/us/app/mob-control/id1562817072?uo=2",
           "category": "Games"
         },
@@ -4870,99 +4902,35 @@
           "category": "Games"
         },
         {
-          "id": "6755455500",
-          "name": "Hollywood Merge",
-          "developer": "VoyagerOne",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b0/87/fbb087b7-9cd2-7055-9569-ce9e9d0a54d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/hollywood-merge/id6755455500?uo=2",
+          "id": "6797805969",
+          "name": "Girls Echo",
+          "developer": "HOWLYO HONG KONG LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/50/b3/6d50b3d3-dfd4-2d54-d004-33054cea92b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/girls-echo/id6797805969?uo=2",
           "category": "Games"
         },
         {
-          "id": "6751056652",
-          "name": "Pixel Flow!",
-          "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/43/2e/6c432eb1-58f4-f3af-8995-024097adcfa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/pixel-flow/id6751056652?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1351168404",
-          "name": "Among Us!",
-          "developer": "InnerSloth LLC",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/among-us/id1351168404?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6783815362",
-          "name": "Word Tiles - Relaxing Puzzle",
-          "developer": "Agave Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/88/8b/db888b0b-837e-eb0b-83b2-761289a77416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/word-tiles-relaxing-puzzle/id6783815362?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6767834940",
-          "name": "Top Lords",
-          "developer": "GAME SPARK PTE. LTD.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/top-lords/id6767834940?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6747033069",
-          "name": "Shoot & Hide",
+          "id": "6446197181",
+          "name": "Glow Fashion Idol",
           "developer": "Crazy Labs",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/71/23a97182-d3b0-d9f3-7ec7-22ba2c23db4f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/shoot-hide/id6747033069?uo=2",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/40/31/9040311b-27be-8eb0-d42a-99e9e40fb8d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/glow-fashion-idol/id6446197181?uo=2",
           "category": "Games"
         },
         {
-          "id": "6503636810",
-          "name": "Screw Match®: ASMR Game",
-          "developer": "BESTPLAY GAMES PTE. LTD.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/9a/c9/639ac972-369e-c4e3-cf63-608cff836e34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/screw-match-asmr-game/id6503636810?uo=2",
+          "id": "1176027022",
+          "name": "Toon Blast",
+          "developer": "Peak Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2a/ca/6a2aca94-240b-0909-0af1-52ab365e4425/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/toon-blast/id1176027022?uo=2",
           "category": "Games"
         },
         {
-          "id": "6767091927",
-          "name": "Jigsaw Drop: Solitaire Puzzle",
-          "developer": "Runyou Game",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/ce/6f/d2ce6fbe-bb26-6b22-c6ce-6220475c1895/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/jigsaw-drop-solitaire-puzzle/id6767091927?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1595314851",
-          "name": "Lamar - Idle Vlogger",
-          "developer": "Crazy Labs",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e0/08/76e00836-3826-e4b8-5f5a-a9090ebd7b9a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/lamar-idle-vlogger/id1595314851?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1475514684",
-          "name": "Bubble Cash",
-          "developer": "Papaya Gaming",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/42/64/4842646d-5697-09b2-5730-e71a1fca66fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/bubble-cash/id1475514684?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1606549505",
-          "name": "Royal Kingdom",
-          "developer": "Dream Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/ca/e0/fccae0ce-7543-a0e0-0651-7910437510bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1522266397",
-          "name": "Bingo Cash - Win Real Money",
-          "developer": "Papaya Gaming",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/9f/ea/ad9feaaf-6447-380e-8865-08335d698362/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/bingo-cash-win-real-money/id1522266397?uo=2",
+          "id": "6747028173",
+          "name": "Hole Stars: Puzzle Game",
+          "developer": "Moon Active",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c7/50/66c750af-e329-1224-daab-ed3462797a02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/hole-stars-puzzle-game/id6747028173?uo=2",
           "category": "Games"
         },
         {
@@ -4974,11 +4942,75 @@
           "category": "Games"
         },
         {
-          "id": "1105855019",
-          "name": "Gardenscapes",
-          "developer": "Playrix",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/4d/5b/ba4d5b0c-7989-8fc2-445e-96ab5f020ff1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/gardenscapes/id1105855019?uo=2",
+          "id": "6756185760",
+          "name": "Search It - Hidden Objects",
+          "developer": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/cc/5d/80cc5de5-bfc1-dc9b-3107-9fab1203050e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/search-it-hidden-objects/id6756185760?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6755183085",
+          "name": "Yarn Loop: Knit Puzzle",
+          "developer": "Combo Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/8b/5b/3a8b5b9c-df82-8129-0025-f6f5cadcc03c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/yarn-loop-knit-puzzle/id6755183085?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6498920694",
+          "name": "We Are Cooking",
+          "developer": "Matryoshka Games (CY) LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/1a/f8/6b1af8e8-d8a2-c312-9452-dd94c36adc92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/we-are-cooking/id6498920694?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6751056652",
+          "name": "Pixel Flow!",
+          "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/43/2e/6c432eb1-58f4-f3af-8995-024097adcfa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pixel-flow/id6751056652?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6767091927",
+          "name": "Jigsaw Drop: Solitaire Puzzle",
+          "developer": "Runyou Game",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/ce/6f/d2ce6fbe-bb26-6b22-c6ce-6220475c1895/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/jigsaw-drop-solitaire-puzzle/id6767091927?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6503636810",
+          "name": "Screw Match®: ASMR Game",
+          "developer": "BESTPLAY GAMES PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/9a/c9/639ac972-369e-c4e3-cf63-608cff836e34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/screw-match-asmr-game/id6503636810?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6747033069",
+          "name": "Shoot & Hide",
+          "developer": "Crazy Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/71/23a97182-d3b0-d9f3-7ec7-22ba2c23db4f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/shoot-hide/id6747033069?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6608975929",
+          "name": "Woodoku Blast: Block Puzzle",
+          "developer": "Tripledot Studios",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/b9/3c/47b93cf4-da26-bba9-bd22-0c7db90605d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/woodoku-blast-block-puzzle/id6608975929?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "6767834940",
+          "name": "Top Lords",
+          "developer": "GAME SPARK PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/top-lords/id6767834940?uo=2",
           "category": "Games"
         },
         {
@@ -4998,14 +5030,6 @@
           "category": "Games"
         },
         {
-          "id": "1176027022",
-          "name": "Toon Blast",
-          "developer": "Peak Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2a/ca/6a2aca94-240b-0909-0af1-52ab365e4425/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/toon-blast/id1176027022?uo=2",
-          "category": "Games"
-        },
-        {
           "id": "6759412341",
           "name": "EA College Football Mobile 27",
           "developer": "Electronic Arts",
@@ -5014,19 +5038,11 @@
           "category": "Games"
         },
         {
-          "id": "6498920694",
-          "name": "We Are Cooking",
-          "developer": "Matryoshka Games (CY) LTD",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/1a/f8/6b1af8e8-d8a2-c312-9452-dd94c36adc92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/we-are-cooking/id6498920694?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1580601028",
-          "name": "Everyday Puzzles: Mini Games",
-          "developer": "Fanatee",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/6a/ba/3a6aba42-0972-6f20-7387-2d07dbc5fdf3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/everyday-puzzles-mini-games/id1580601028?uo=2",
+          "id": "1522266397",
+          "name": "Bingo Cash - Win Real Money",
+          "developer": "Papaya Gaming",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/60/20/c3602052-7dc6-5e47-66c5-75ce0b88f9dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/bingo-cash-win-real-money/id1522266397?uo=2",
           "category": "Games"
         },
         {
@@ -5038,83 +5054,59 @@
           "category": "Games"
         },
         {
-          "id": "6608975929",
-          "name": "Woodoku Blast: Block Puzzle",
-          "developer": "Tripledot Studios",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/b9/3c/47b93cf4-da26-bba9-bd22-0c7db90605d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/woodoku-blast-block-puzzle/id6608975929?uo=2",
+          "id": "1478902583",
+          "name": "Retro Bowl",
+          "developer": "New Star Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7d/d8/197dd8db-93d4-f20b-b99b-fd809f070698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/retro-bowl/id1478902583?uo=2",
           "category": "Games"
         },
         {
-          "id": "6756185760",
-          "name": "Search It - Hidden Objects",
-          "developer": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/cc/5d/80cc5de5-bfc1-dc9b-3107-9fab1203050e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/search-it-hidden-objects/id6756185760?uo=2",
+          "id": "6498883328",
+          "name": "Tile Explorer: Tiles Clear!",
+          "developer": "Oakever Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/f0/5f/abf05f96-2d08-3bf3-be90-09e477f9d952/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/tile-explorer-tiles-clear/id6498883328?uo=2",
           "category": "Games"
         },
         {
-          "id": "1053012308",
-          "name": "Clash Royale",
-          "developer": "Supercell",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/dd/c2/e1ddc25b-e234-42ac-7748-1c663d309cf9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/clash-royale/id1053012308?uo=2",
+          "id": "1475514684",
+          "name": "Bubble Cash",
+          "developer": "Papaya Gaming",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/bf/74/ccbf74ea-1aa7-f8d8-f9b3-54c9bceec7bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/bubble-cash/id1475514684?uo=2",
           "category": "Games"
         },
         {
-          "id": "6747028173",
-          "name": "Hole Stars: Puzzle Game",
-          "developer": "Moon Active",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/c7/50/66c750af-e329-1224-daab-ed3462797a02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/hole-stars-puzzle-game/id6747028173?uo=2",
+          "id": "6499306806",
+          "name": "Goods Puzzle: 3D Sorting Games",
+          "developer": "Guru Smart Holding Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/5f/91/dd5f9193-81f1-4bda-93f7-b22663aa552f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/goods-puzzle-3d-sorting-games/id6499306806?uo=2",
           "category": "Games"
         },
         {
-          "id": "6747063674",
-          "name": "Brain Puzzle 2: Logic Twist",
-          "developer": "SmallStep Dev Team",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/47/c4/3e47c40d-ac93-a88f-6f9e-90dc94aec2a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/brain-puzzle-2-logic-twist/id6747063674?uo=2",
+          "id": "6751794501",
+          "name": "Cash Avalanche:Casino Slot",
+          "developer": "Spruce Interactive Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/ac/78/b2ac7805-c3df-b3dd-59da-f2541638d8a1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cash-avalanche-casino-slot/id6751794501?uo=2",
           "category": "Games"
         },
         {
-          "id": "6450413462",
-          "name": "CrownCoins Casino",
-          "developer": "Sunflower",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/82/f9/3482f982-0090-a3b6-48a7-0b2998425160/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/crowncoins-casino/id6450413462?uo=2",
+          "id": "1105855019",
+          "name": "Gardenscapes",
+          "developer": "Playrix",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b1/f0/dbb1f00e-5031-70dd-3b6f-9a4feb52635f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/gardenscapes/id1105855019?uo=2",
           "category": "Games"
         },
         {
-          "id": "529479190",
-          "name": "Clash of Clans",
-          "developer": "Supercell",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/3a/33/ca3a3391-1dfe-a6c9-3701-97cc86f45241/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/clash-of-clans/id529479190?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "1094591345",
-          "name": "Pokémon GO",
-          "developer": "Scopely Explore, Inc.",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e8/5a/dfe85a6b-28cb-9446-278d-6956bfca26ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6757407113",
-          "name": "Yes, Your Grace 2: Snowfall",
-          "developer": "Noodlecake",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/07/1e/66071ee7-4cb1-5d4d-8606-61eb9f4abf15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/yes-your-grace-2-snowfall/id6757407113?uo=2",
-          "category": "Games"
-        },
-        {
-          "id": "6757154335",
-          "name": "Cube Land Puzzle Game",
-          "developer": "Rotatelab",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/01/c0/0301c0e7-53e8-158d-106d-ce039d32910b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cube-land-puzzle-game/id6757154335?uo=2",
+          "id": "6755425214",
+          "name": "Pocket Sort: Coin Merge Puzzle",
+          "developer": "SayGames LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/25/0f/a2250ff0-b5ba-275a-b68a-4593bde0209e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pocket-sort-coin-merge-puzzle/id6755425214?uo=2",
           "category": "Games"
         },
         {
@@ -5126,35 +5118,43 @@
           "category": "Games"
         },
         {
-          "id": "1478902583",
-          "name": "Retro Bowl",
-          "developer": "New Star Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7d/d8/197dd8db-93d4-f20b-b99b-fd809f070698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/retro-bowl/id1478902583?uo=2",
+          "id": "6757154335",
+          "name": "Cube Land Puzzle Game",
+          "developer": "Rotatelab",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/d5/73/fed57320-039d-8955-4ead-77eda1bb5ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/cube-land-puzzle-game/id6757154335?uo=2",
           "category": "Games"
         },
         {
-          "id": "6747810901",
-          "name": "Word Connect Association",
-          "developer": "PlaySimple Games Pte Ltd",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/82/c1/0b82c1ba-c25a-b67c-9bf9-ae6b6cf5de1c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/word-connect-association/id6747810901?uo=2",
+          "id": "6450413462",
+          "name": "CrownCoins Casino",
+          "developer": "Sunflower",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/82/f9/3482f982-0090-a3b6-48a7-0b2998425160/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/crowncoins-casino/id6450413462?uo=2",
           "category": "Games"
         },
         {
-          "id": "6754900673",
-          "name": "Jigsawcard Solitaire Puzzle",
-          "developer": "Oakever Games",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/8c/f1/c38cf1bb-ff8d-c1d1-025a-f4ab9371a7d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/jigsawcard-solitaire-puzzle/id6754900673?uo=2",
+          "id": "1094591345",
+          "name": "Pokémon GO",
+          "developer": "Scopely Explore, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/e8/5a/dfe85a6b-28cb-9446-278d-6956bfca26ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345?uo=2",
           "category": "Games"
         },
         {
-          "id": "1389111413",
-          "name": "Hole.io - Original Hole Game",
-          "developer": "Voodoo",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/60/fb/6c60fbb8-9526-679d-6216-8a332cf61c90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/hole-io-original-hole-game/id1389111413?uo=2",
+          "id": "1094930513",
+          "name": "EA SPORTS FC Soccer Mobile 27",
+          "developer": "Electronic Arts",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d1/84/41d18457-ec03-6812-f0a7-8a83686c6009/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/ea-sports-fc-soccer-mobile-27/id1094930513?uo=2",
+          "category": "Games"
+        },
+        {
+          "id": "1053012308",
+          "name": "Clash Royale",
+          "developer": "Supercell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/dd/c2/e1ddc25b-e234-42ac-7748-1c663d309cf9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/clash-royale/id1053012308?uo=2",
           "category": "Games"
         },
         {
@@ -5166,19 +5166,19 @@
           "category": "Games"
         },
         {
-          "id": "6751794501",
-          "name": "Cash Avalanche:Casino Slot",
-          "developer": "Spruce Interactive Inc",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/24/8b/8e248b33-74b2-8efd-8a37-a4d4ee825390/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/cash-avalanche-casino-slot/id6751794501?uo=2",
+          "id": "6747063674",
+          "name": "Brain Puzzle 2: Logic Twist",
+          "developer": "SmallStep Dev Team",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/47/c4/3e47c40d-ac93-a88f-6f9e-90dc94aec2a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/brain-puzzle-2-logic-twist/id6747063674?uo=2",
           "category": "Games"
         },
         {
-          "id": "1094930513",
-          "name": "EA SPORTS FC Soccer Mobile 27",
-          "developer": "Electronic Arts",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d1/84/41d18457-ec03-6812-f0a7-8a83686c6009/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-          "url": "https://apps.apple.com/us/app/ea-sports-fc-soccer-mobile-27/id1094930513?uo=2",
+          "id": "1595314851",
+          "name": "Lamar - Idle Vlogger",
+          "developer": "Crazy Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e0/08/76e00836-3826-e4b8-5f5a-a9090ebd7b9a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+          "url": "https://apps.apple.com/us/app/lamar-idle-vlogger/id1595314851?uo=2",
           "category": "Games"
         }
       ]
@@ -5189,7 +5189,7 @@
       "appId": "6813927466",
       "country": "us",
       "sourceURL": "https://itunes.apple.com/us/rss/customerreviews/id=6813927466/sortby=mostrecent/json",
-      "checkedAt": "2026-10-15T04:49:59.475246Z",
+      "checkedAt": "2026-10-16T04:40:11.070466Z",
       "results": []
     }
   ],
@@ -5257,6 +5257,13 @@
         "returned": 109,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:39:48.231394Z",
+        "position": 66,
+        "returned": 109,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ],
     "6813927466|us|akari light": [
@@ -5322,6 +5329,13 @@
         "returned": 167,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:39:52.086324Z",
+        "position": 72,
+        "returned": 167,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ],
     "6813927466|us|akari puzzle": [
@@ -5387,6 +5401,13 @@
         "returned": 180,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:39:55.870015Z",
+        "position": null,
+        "returned": 180,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ],
     "6813927466|us|light up puzzle": [
@@ -5452,6 +5473,13 @@
         "returned": 178,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:39:59.669506Z",
+        "position": null,
+        "returned": 178,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ],
     "6813927466|us|logic puzzle": [
@@ -5517,6 +5545,13 @@
         "returned": 197,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:40:03.488685Z",
+        "position": null,
+        "returned": 197,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ],
     "6813927466|us|logic grid": [
@@ -5582,6 +5617,13 @@
         "returned": 190,
         "source": "apple-search-api-v1",
         "date": "2026-10-15"
+      },
+      {
+        "checkedAt": "2026-10-16T04:40:07.279112Z",
+        "position": null,
+        "returned": 190,
+        "source": "apple-search-api-v1",
+        "date": "2026-10-16"
       }
     ]
   },
